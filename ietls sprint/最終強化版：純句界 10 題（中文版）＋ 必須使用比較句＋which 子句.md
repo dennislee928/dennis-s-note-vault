@@ -60,7 +60,7 @@
 ### **1. 手機使用率在 2015 年達到最高點，之後略微下降。**
 
 → 要用 peaked at＋一個安全 which 子句（補充下降情況）
-Using 
+Using rate of cellphone peaked at xx% in 2015, followed by a slight decline.
 
 ---
 
