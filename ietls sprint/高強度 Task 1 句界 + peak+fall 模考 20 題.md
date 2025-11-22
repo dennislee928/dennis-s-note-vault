@@ -11,7 +11,7 @@
 Smartphone usage reached 94% in 2021 （最高點）。  
 → 用 **peaked at** 造句。
 
-Smartphone usage pea
+Smartphone usage peaked at 94% in 2021.
 
 ### **2.**
 
