@@ -29,7 +29,7 @@
      Water usage peaked at 450 liters per person per day in 2005.
     
 10. Gas production rose to its maximum of 80 million tonnes in 1990.
-    Gas production rose to its maximum of 80 million tonnes in 1990.
+    Gas production peaked at 80 million tonnes in 1990.
 
 ---
 
