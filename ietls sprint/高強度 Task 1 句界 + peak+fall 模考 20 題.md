@@ -75,7 +75,7 @@ Desktop computer ownership decreased by 25%, falling from 70% in 2005 to 45% in 
 
 DVD rentals fell from 50 million to 10 million units between 2008 and 2018.
 
-DVD rentals decreased by 50 million,fell from 50 million to 10 million units between 2008 and 2018.
+DVD rentals decreased by 50 million, falling from 50 million to 10 million units between 2008 and 2018.
 ### **13.**
 
 Landline usage decreased from 85% to 40% between 2000 and 2020.
