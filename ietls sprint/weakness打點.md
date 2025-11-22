@@ -124,7 +124,7 @@
 11. student-studying interest
      students' interest in studying
 12. health-protecting policy
-     health 
+     health protection policy
 13. budget-spending plan
     
 14. energy-saving equipments
