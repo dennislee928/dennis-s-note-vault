@@ -118,7 +118,7 @@
 8. technology-using environment
      technological environment/ technology-oriented environment
 9. school-teaching quality
-    quality of 
+    quality of school teaching
 10. knowledge-learning efficiency
     
 11. student-studying interest
