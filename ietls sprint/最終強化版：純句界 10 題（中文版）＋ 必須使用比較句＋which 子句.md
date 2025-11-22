@@ -82,7 +82,9 @@ Sales of physical books declined substantially, and lots of people had started t
 ### **4. 公車使用率下降了 10%，這使得城市交通更加擁擠。**
 
 → 主句＋which 子句（表示影響）
-Usage rate of bus declined by 10%, which indicates that the traffic will be 
+Usage rate of bus declined by 10%, which indicates the traffic will be more crowded in cities/urban areas.
+
+Usage rate of bus declined by 10%, indicating the traffic will be more crowded in cities/urban areas.
 
 
 ---
@@ -93,6 +95,9 @@ Usage rate of bus declined by 10%, which indicates that the traffic will be
 **Solar energy is more than twice the initial figure.**  
 或：  
 **…was over double compared with the initial level.**
+
+
+
 
 ---
 
