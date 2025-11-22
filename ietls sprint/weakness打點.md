@@ -81,6 +81,7 @@
      Residential  consumption  is 25% ,which is less than half of industrial energy consumption, being 60%.
 7. Rural poverty 30%; urban poverty 12%.
     Rural poverty is 30%which is more than twice as high as  urban poverty, being 12%.
+    Rural poverty is 30%which is more than twice as high as  urban poverty, being 12%.
 8. Fruit imports 44%; vegetable imports 20%.
     Fruit imports is 44% which is more than twice as high as vegetable imports, being 20%.
 9. Tourist numbers 10m; business travellers 4m.
