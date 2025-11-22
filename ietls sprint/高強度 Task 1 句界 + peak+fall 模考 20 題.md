@@ -121,5 +121,5 @@ The percentage of households with air conditioners rose from 45% in 2005 to 95% 
 Air conditioners ownership of households rose sharply from 45% in 2005 to 95% in 2020, which increased more than twice as much as its original figure.
 ### **20.**
 
-Online shopping participation increased from 10% in 2000 to 65% in 2020.
+Online shopping participation increased from 10% in 2000 to 65% in 2020, and .
 Online shopping participation increased from 10% in 2000 to 65% in 2020.
