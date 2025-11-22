@@ -68,7 +68,7 @@
      The percentage of breakfast  is 32%, which is less than half of breakfast, being 14%.
 2. Car usage is 70%; bike usage is 30%.
      Car usage is 70%, which is more than twice as high of  bike usage, being 30%.
-     Bike usage is 30%, which is less than half of  bike usage, being 30%.
+     Bike usage is 30%, which is less than half of  car usage, being 70%.
 3. Smartphone ownership is 90%; tablet ownership is 40%.
      Smartphone ownership is 90%, which is more than twice as high as tablet ownership.
      Tablet ownership is 40%, which is less than half of Smartphone ownership, being 90%.
