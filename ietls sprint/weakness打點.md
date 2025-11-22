@@ -134,7 +134,7 @@
 16. online-learning resources usage
     usage of online-learning resources
 17. workers-working condition
-    
+    working conditions for workers
 18. jobs-providing companies
     
 19. students-reading behavior
