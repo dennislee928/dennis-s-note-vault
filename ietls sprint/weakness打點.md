@@ -10,7 +10,7 @@
 
 1. Smartphone usage reached its highest level of 88% in 2021.  
     → 用 peaked at。
-    
+    Smartphone usage peaked at 88% in 2021.  
 2. Tourism arrivals hit a maximum of 12 million in 2018.
     
 3. Renewable energy production reached its top point of 65% in 2020.
