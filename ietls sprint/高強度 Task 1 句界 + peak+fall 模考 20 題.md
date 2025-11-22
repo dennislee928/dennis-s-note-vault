@@ -18,11 +18,12 @@ Smartphone usage peaked at 94% in 2021.
 Tourism revenue hit its maximum, 130 billion dollars, in 2017.  
 → 用 peaked at。
 
-Tourism revenue peaked at 130 billion dollars in 20
+Tourism revenue peaked at 130 billion dollars in 2017.
 ### **3.**
 
 Car ownership reached its highest level of 82% in 2015.  
 → 用 peaked at。
+Car ow
 
 ### **4.**
 
