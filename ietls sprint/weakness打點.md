@@ -136,7 +136,7 @@
 17. workers-working condition
     working conditions for workers
 18. jobs-providing companies
-    companies providing pos
+    companies providing positions
 19. students-reading behavior
-    
+     
 20. exam-taking strategies
