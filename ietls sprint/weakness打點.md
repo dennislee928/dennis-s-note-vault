@@ -108,7 +108,7 @@
 3. usages of digital tools
     usage of digital tools/digital tools usage
 4. informations provided
-    information provided/informations 
+    information provided
 5. progresses of technology
     
 6. tablets ownership rate
