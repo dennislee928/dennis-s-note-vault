@@ -68,7 +68,7 @@
      The percentage of breakfast  is 32%, which is less than half of breakfast, being 14%.
 2. Car usage is 70%; bike usage is 30%.
      Car usage is 70%, which is more than twice as high of  bike usage, being 30%.
-     
+     C usage is 70%, which is more than twice as high of  bike usage, being 30%.
 3. Smartphone ownership is 90%; tablet ownership is 40%.
      Smartphone ownership is 90%, which is more than twice as high as tablet ownership.
 4. Gas production 80m; coal production 35m.
