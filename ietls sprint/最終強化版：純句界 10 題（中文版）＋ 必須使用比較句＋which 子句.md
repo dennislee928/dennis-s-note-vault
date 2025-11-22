@@ -116,13 +116,15 @@ Fresh oranges will be washed after being transferred to factories.After that, th
 ### **7. 經過過濾後，果汁會被加熱殺菌，然後被裝瓶密封。**
 
 → 用 after / then / and then（不能兩個獨立動作用逗號接）
-After being filtered, the juice will then be heated to terminate bacterrias. And then ,it will be sealed , 
+After being filtered, the juice will then be heated to terminate bacterrias. And then ,it will be sealed.After that, it will be bottled.
 
 ---
 
 ### **8. 城市北邊的工廠被拆除，這個地區被改建成一個公園。**
 
 → 用 which 或 and 成兩句 → 避免 run-on
+The factory in the north side of the city was dem
+
 
 ---
 
