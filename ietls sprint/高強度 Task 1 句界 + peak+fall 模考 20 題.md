@@ -39,6 +39,7 @@ Steel production peaked at 70 million tonnes in 2008.
 
 Daily water consumption reached 360 liters per person in 2005.  
 → 用 peaked at。
+Daily water consumption peaked  360 liters per person in 2005.  
 
 ---
 
