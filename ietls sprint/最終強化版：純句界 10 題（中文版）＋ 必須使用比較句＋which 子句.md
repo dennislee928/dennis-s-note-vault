@@ -100,7 +100,7 @@ While all percentages of these three types of energy increased, the one of solar
 
 While all percentages of these three types of energy increased, the one of solar energy grew most significantly/substantially.It was even more than twice the initial figure.
 
-While all percentages of these three types of energy increased, the one of solar energy grew most significantly/substantially.It was even over double compared with initial level
+While all percentages of these three types of energy increased, the one of solar energy grew most significantly/substantially.It was even over double compared with the initial level.
 
 
 ---
@@ -108,6 +108,8 @@ While all percentages of these three types of energy increased, the one of solar
 ### **6. 新鮮橘子被運到工廠後會被清洗，之後會被壓汁。**
 
 → 這是典型 process → 用 after that / then 避免 run-on
+
+Fresh oranges will be washed after being transferred to factories.After t
 
 ---
 
