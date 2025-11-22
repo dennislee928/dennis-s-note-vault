@@ -22,9 +22,9 @@
 6. Electricity consumption hit its maximum of 500 kWh per capita in 2010.
     Electricity consumption peaked at 500 kWh per capita in 2010.
 7. The percentage of commuters using buses reached 72% in 2016.
-    The percentage of commuters peak 72% in 2016.
+    The percentage of commuters peaked at 72% in 2016.
 8. Coffee sales hit their highest point of 3.1 billion dollars in 2020.
-    
+    Coffee sales hit their highest point of 3.1 billion dollars in 2020.
 9. Water usage reached 450 liters per person per day in 2005.
     
 10. Gas production rose to its maximum of 80 million tonnes in 1990.
