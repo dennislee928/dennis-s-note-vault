@@ -70,7 +70,7 @@ mine-Employment in manufacturing decreased by 14%, falling from 32%  in 1990 to 
 
 Desktop computer ownership was 70% in 2005 and 45% in 2020.
 mine-Desktop computer ownership fell from 70% in 2005 to 45% in 2020.
-mine-Desktop computer ownership decreased by 25%, falling from 70% in 2005 to 45% in 2020.
+mine-Desktop computer ownership dropped by 25%, falling from 70% in 2005 to 45% in 2020.
 ### **12.**
 
 DVD rentals fell from 50 million to 10 million units between 2008 and 2018.
