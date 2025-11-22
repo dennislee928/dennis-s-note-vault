@@ -60,13 +60,14 @@
 ### **1. 手機使用率在 2015 年達到最高點，之後略微下降。**
 
 → 要用 peaked at＋一個安全 which 子句（補充下降情況）
-Using rate of cellphone peaked at xx% in 2015, followed by a slight decline.
+Using rate of cellphone peaked at xx%/reached a peak in 2015, followed by a slight decline.
 
 ---
 
 ### **2. 平板電腦的比例從 20% 增加到 35%，而筆電的比例則保持穩定。**
 
 → 請用 from…to…＋while（避免 run-on）
+The proportion of tablets increased from 20% to 35%, while the propo
 
 ---
 
