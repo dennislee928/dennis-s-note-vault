@@ -103,6 +103,7 @@ Gas consumption dropped by 50 units, decreasing/falling from 200 units in 2000 t
 ### **17.**
 
 Newspaper readership declined from 40% to 22% in one decade.
+Newspaper readership declined from 40% to 22% in one decade.
 
 ---
 
