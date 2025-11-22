@@ -145,4 +145,4 @@ Students can learn any subject online.Hence/As a result, they can arrange their 
 → peaked at ＋ although（安全句界）  
 → 補充比較句：**…was over double compared with earlier levels.**（你可加或不加）
 
-The unemplyment 
+The unemployment rate had peaked at 12% in 2010, though it experienced a decline
