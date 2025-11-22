@@ -128,7 +128,7 @@
 13. budget-spending plan
     budget plan
 14. energy-saving equipments
-     
+     equipments for saving en
 15. environment-protecting issues
     environment protection issues
 16. online-learning resources usage
