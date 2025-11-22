@@ -64,7 +64,8 @@
 任務：將“more than double”改為自然用法 → **more than twice as high as**
 
 1. Lunch is 32%, breakfast 14%.
-    The percentage of lunch is 32%, which is more than twice as high as breakfast, being 14%
+    The percentage of lunch is 32%, which is more than twice as high as breakfast, being 14%.
+    
 2. Car usage is 70%; bike usage is 30%.
      Car usage is 70%, which is more than twice as high of  bike usage, being 30%.
 3. Smartphone ownership is 90%; tablet ownership is 40%.
@@ -82,7 +83,7 @@
 9. Tourist numbers 10m; business travellers 4m.
     Tourist numbers are 10m, which is more than twice as high as  business travellers, being 4m.
 10. Teachers earning 60k; assistants earning 25k.
-     Teachers earning is 60k, which is more than twice as high as assistants earning 25k.
+     Teachers earning is 60k, which is more than twice as high as assistants earning, being 25k.
 
 ---
 
