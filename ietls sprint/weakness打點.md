@@ -112,7 +112,7 @@
 5. progresses of technology
     technology progress
 6. tablets ownership rate
-    
+    tablets ownership rate
 7. video-watching rate
     
 8. technology-using environment
