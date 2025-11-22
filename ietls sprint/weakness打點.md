@@ -90,6 +90,7 @@
     Business numbers are 10m, which is less than half of  tourist travellers, being 10m.
 10. Teachers earning 60k; assistants earning 25k.
      Teachers earning is 60k, which is more than twice as high as assistants earning, being 25k.
+     Teachers earning is 60k, which is more than twice as high as assistants earning, being 25k.
 
 ---
 
