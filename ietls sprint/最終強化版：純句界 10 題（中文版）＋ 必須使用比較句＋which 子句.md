@@ -98,6 +98,7 @@ Usage rate of bus declined by 10%, indicating the traffic will be more crowded i
 
 While all percentages of these three types of energy increased, the one of solar energy grew most significantly/substantially.
 
+While all percentages of these three types of energy increased, the one of solar energy grew most significantly/substantially.It was even more than twice compared with initial 
 
 ---
 
