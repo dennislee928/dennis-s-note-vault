@@ -113,7 +113,7 @@ Newspaper readership dropped by 18%, decreasing/falling from  from 40% to 22% in
 
 Electricity use increased from 300 kWh to 520 kWh per household from 2000 to 2020.
 
-Electricity usage rose from 300 in 2000 kWh to 520 kWh per household from 2000 to 2020.
+Electricity usage rose from 300 in 2000  to 520  kWh per household from 2000 to 2020.
 
 ### **19.**
 
