@@ -34,6 +34,7 @@ Internet access peaked at 99% in 2023.
 Steel production hit its peak of 70 million tonnes in 2008.  
 → 用 peaked at。
 
+Steel production hit its peak of 70 million tonnes in 2008.  
 ### **6.**
 
 Daily water consumption reached 360 liters per person in 2005.  
