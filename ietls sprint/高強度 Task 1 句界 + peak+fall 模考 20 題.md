@@ -94,7 +94,7 @@ The percentage of people going to libraries dropped by 12%, falling form  30% in
 
 Youth unemployment fell from 14% to 9% between 2015 and 2020.  
 → dropped by X
-Youth unemployment fell from 14% to 9% between 2015 and 2020.  
+Youth unemployment drop fell from 14% to 9% between 2015 and 2020.  
 ### **16.**
 
 Gas consumption decreased from 200 units to 150 units between 2000 and 2010.  
