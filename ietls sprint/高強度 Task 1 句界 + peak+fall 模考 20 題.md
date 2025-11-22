@@ -58,7 +58,7 @@ Bus usage fell from 55% to 33%, between 2000 to in 2010.
 ### **9.**
 
 Paper book sales dropped from 1.2 million to 0.7 million between 2010 and 2020.
-Paper book sales decreased by 0.5 million , from 1.2 million in 2010 to 0.7 million in 2020.
+Paper book sales decreased by 0.5 million , falling from 1.2 million in 2010 to 0.7 million in 2020.
 Paper book sales fell from 1.2 million in 2010 to 0.7 million  in 2020.
 
 ### **10.**
