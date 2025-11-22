@@ -49,7 +49,7 @@ Daily water consumption peaked at 360 liters per person in 2005.
 
 Tablet ownership was 40% in 2012 and 25% in 2018.  
 → 用 **fell from A to B**（禁止 run-on）。
-Tablet ownership fee 40% in 2012 and 25% in 2018.  
+Tablet ownership fell from 40% in 2012 and 25% in 2018.  
 ### **8.**
 
 Bus usage decreased from 55% in 2000 to 33% in 2010.  
