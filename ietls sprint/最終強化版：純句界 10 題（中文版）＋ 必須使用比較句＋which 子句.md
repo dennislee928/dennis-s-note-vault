@@ -135,6 +135,8 @@ The factory in the north side of the city was removed, and  a new park took its 
 → therefore / so（二選一）  
 → 不可用逗號硬接
 Students can learn any subject online.Therefore, they can arrange their time with more flexibility.
+Students can learn any subject online so  they can arrange their time with more flexibility.
+Students can learn any subject online.Hence/As a result, they can arrange their time more flexible.
 
 ---
 
@@ -142,3 +144,5 @@ Students can learn any subject online.Therefore, they can arrange their time wit
 
 → peaked at ＋ although（安全句界）  
 → 補充比較句：**…was over double compared with earlier levels.**（你可加或不加）
+
+The unemplyment 
