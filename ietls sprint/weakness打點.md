@@ -106,7 +106,7 @@
 2. equipments needed
      required equipments /equipments that are needed/necessary equipment
 3. usages of digital tools
-    usage of digital tools
+    usage of digital tools/digital tools usage
 4. informations provided
     
 5. progresses of technology
