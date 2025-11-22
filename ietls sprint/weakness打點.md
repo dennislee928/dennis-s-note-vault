@@ -66,11 +66,11 @@
 1. Lunch is 32%, breakfast 14%.
     The percentage of lunch is 32%, which is more than twice as high as that of breakfast, being 14%
 2. Car usage is 70%; bike usage is 30%.
-     Car usage is 70%, which is more than twice as high of that of bike, being 30%
+     Car usage is 70%, which is more than twice as high of that of bike, being 30%.
 3. Smartphone ownership is 90%; tablet ownership is 40%.
-     Smartphone ownership is 90%
+     Smartphone ownership is 90%, which is more than twice as high as tablet ownership.
 4. Gas production 80m; coal production 35m.
-    
+    Gas production 80m ,which is  more than twice as high as coal production, being 35m.
 5. Elderly population 25%; youth population 10%.
     
 6. Energy consumption of industry 60%; residential 25%.
