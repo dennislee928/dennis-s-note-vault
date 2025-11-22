@@ -28,7 +28,7 @@ Car ownership peaked at 82% in 2015.
 
 Internet access reached 99% in 2023.  
 → 用 peaked at。
-
+Internet access peaked at 99% in 2023.  
 ### **5.**
 
 Steel production hit its peak of 70 million tonnes in 2008.  
