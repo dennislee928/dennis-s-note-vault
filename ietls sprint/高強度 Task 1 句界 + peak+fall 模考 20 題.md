@@ -23,8 +23,7 @@ Tourism revenue peaked at 130 billion dollars in 2017.
 
 Car ownership reached its highest level of 82% in 2015.  
 → 用 peaked at。
-Car ow
-
+Car ownership rpeaked  82% in 2015.  
 ### **4.**
 
 Internet access reached 99% in 2023.  
