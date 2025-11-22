@@ -113,6 +113,8 @@ Newspaper readership dropped by 18%, decreasing/falling from  from 40% to 22% in
 
 Electricity use increased from 300 kWh to 520 kWh per household from 2000 to 2020.
 
+Electricity usage increased from 300 kWh to 520 kWh per household from 2000 to 2020.
+
 ### **19.**
 
 The percentage of households with air conditioners rose from 45% in 2005 to 78% in 2020.
