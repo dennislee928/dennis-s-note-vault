@@ -74,7 +74,7 @@
 5. Elderly population 25%; youth population 10%.
     Elderly population is 25%, which is more than twice as high as  youth population, being 10%.
 6. Energy consumption of industry 60%; residential 25%.
-    Energy consumption of industry 60%; residential 25%.
+    Energy consumption of industry is 60% which is more tha residential 25%.
 7. Rural poverty 30%; urban poverty 12%.
     
 8. Fruit imports 44%; vegetable imports 20%.
