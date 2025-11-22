@@ -71,10 +71,10 @@ The proportion of tablets increased from 20% to 35% / increased by 15%, while th
 
 ---
 
-### **3. 書籍的銷量大幅下跌，許多人開始轉向電子書。**
+### **3. 紙製書籍的銷量大幅下跌，許多人開始轉向電子書。**
 
 → 動作很多，請切兩句或用一個 which 補充
-Sales of paper-based 
+Sales of physical books declined substantially, and lots of people had started to use
 
 
 ---
