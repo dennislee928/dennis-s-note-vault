@@ -123,8 +123,9 @@ After being filtered, the juice will then be heated to terminate bacterrias. And
 ### **8. 城市北邊的工廠被拆除，這個地區被改建成一個公園。**
 
 → 用 which 或 and 成兩句 → 避免 run-on
-The factory in the north side of the city was dem
-
+The factory in the north side of the city was demolished to make way for the newly built park.
+The factory in the north side of the city was replaced for a new park.
+The factory in the north side of the city was removed,
 
 ---
 
