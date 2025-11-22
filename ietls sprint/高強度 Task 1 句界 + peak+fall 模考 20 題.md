@@ -65,7 +65,7 @@ mine-Paper book sales fell from 1.2 million in 2010 to 0.7 million  in 2020.
 
 Employment in manufacturing decreased from 32% to 18% between 1990 and 2010.
 mine-Employment in manufacturing fell from 32%  in 1990 to 18% in 2010. 
-mine-Employment in manufacturing decreased by 14%, falling from 32%  in 1990 to 18% in 2010. 
+mine-Employment in manufacturing dropped by 14%, falling from 32%  in 1990 to 18% in 2010. 
 ### **11.**
 
 Desktop computer ownership was 70% in 2005 and 45% in 2020.
