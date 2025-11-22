@@ -116,7 +116,7 @@
 7. video-watching rate
      rate of video-watching
 8. technology-using environment
-     technological environment/
+     technological environment/ technology-orientedenvironment
 9. school-teaching quality
     
 10. knowledge-learning efficiency
