@@ -126,9 +126,9 @@
 12. health-protecting policy
      health protection policy
 13. budget-spending plan
-    budget-spending plan
+    budget plan
 14. energy-saving equipments
-    
+     
 15. environment-protecting issues
     
 16. online-learning resources usage
