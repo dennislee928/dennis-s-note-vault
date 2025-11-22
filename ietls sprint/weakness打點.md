@@ -71,7 +71,7 @@
      Bike usage is 30%, which is less than half of  bike usage, being 30%.
 3. Smartphone ownership is 90%; tablet ownership is 40%.
      Smartphone ownership is 90%, which is more than twice as high as tablet ownership.
-     Smartphone ownership is 90%, which is more than twice as high as tablet ownership.
+     Tablet ownership is 50%, which is more than twice as high as tablet ownership.
 4. Gas production 80m; coal production 35m.
     Gas production 80m ,which is  more than twice as high as coal production, being 35m.
 5. Elderly population 25%; youth population 10%.
