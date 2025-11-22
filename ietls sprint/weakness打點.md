@@ -80,7 +80,7 @@
 8. Fruit imports 44%; vegetable imports 20%.
     Fruit imports is 44% which is more than twice as high as vegetable imports, being 20%.
 9. Tourist numbers 10m; business travellers 4m.
-    Tourist numbers are 10m, which is more than  business travellers 4m.
+    Tourist numbers are 10m, which is more than twice as high as  business travellers 4m.
 10. Teachers earning 60k; assistants earning 25k.
     
 
