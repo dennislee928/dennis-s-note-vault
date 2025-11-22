@@ -134,7 +134,8 @@ The factory in the north side of the city was removed, and  a new park took its 
 
 → therefore / so（二選一）  
 → 不可用逗號硬接
-Students 
+Students can learn any subject online.Therefore, they can arrange their time with more flexibility.
+
 ---
 
 ### **10. 失業率在 2010 年達到 12%，雖然之後下降，但仍高於其他年份。**
