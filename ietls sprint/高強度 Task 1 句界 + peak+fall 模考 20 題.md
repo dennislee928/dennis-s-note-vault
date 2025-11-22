@@ -99,7 +99,7 @@ Youth unemployment dropped 5%, falling from 14% to 9% between 2015 and 2020.
 
 Gas consumption decreased from 200 units to 150 units between 2000 and 2010.  
 → dropped by X
-Gas consumption dropped by 50 units, decreasing/falling from 200 units in 2000 to 150 units between 2000 and 2010.  
+Gas consumption dropped by 50 units, decreasing/falling from 200 units in 2000 to 150  in 2010.  
 ### **17.**
 
 Newspaper readership declined from 40% to 22% in one decade.
