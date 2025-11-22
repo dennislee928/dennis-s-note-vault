@@ -74,7 +74,7 @@ The proportion of tablets increased from 20% to 35% / increased by 15%, while th
 ### **3. 紙製書籍的銷量大幅下跌，許多人開始轉向電子書。**
 
 → 動作很多，請切兩句或用一個 which 補充
-Sales of physical books declined substantially, and lots of people had started to use
+Sales of physical books declined substantially, and lots of people had started to use electronic books instead.
 
 
 ---
@@ -82,6 +82,8 @@ Sales of physical books declined substantially, and lots of people had started t
 ### **4. 公車使用率下降了 10%，這使得城市交通更加擁擠。**
 
 → 主句＋which 子句（表示影響）
+Usage rate of bus declined by 10%, which indicates that the traffic will be 
+
 
 ---
 
