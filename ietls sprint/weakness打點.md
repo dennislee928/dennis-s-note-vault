@@ -102,7 +102,7 @@
 任務：**改成自然英文，不改意思。**
 
 1. paper-made products
-    
+     paper-based peoducts
 2. equipments needed
     
 3. usages of digital tools
