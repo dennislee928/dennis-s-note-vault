@@ -89,7 +89,7 @@ mine-Landline usage dropped by 35%, falling from 85% in 2000 to 40% in 2020.
 
 The percentage of people going to libraries was 30% in 2010 and 18% in 2020.  
 → 用 **dropped by X**（X=12%）
-The percentage of people going to libraries dropped by 12%, which waswas 30% in 2010 and 18% in 2020.  
+The percentage of people going to libraries dropped by 12%, was 30% in 2010 and 18% in 2020.  
 ### **15.**
 
 Youth unemployment fell from 14% to 9% between 2015 and 2020.  
