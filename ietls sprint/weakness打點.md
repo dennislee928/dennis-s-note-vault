@@ -26,6 +26,7 @@
 8. Coffee sales hit their highest point of 3.1 billion dollars in 2020.
     Coffee sales  peaked at 3.1 billion dollars in 2020.
 9. Water usage reached 450 liters per person per day in 2005.
+     Water usage peaked at 450 liters per person per day in 2005.
     
 10. Gas production rose to its maximum of 80 million tonnes in 1990.
     
