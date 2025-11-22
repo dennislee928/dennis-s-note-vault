@@ -18,7 +18,7 @@
 4. Unemployment reached its highest figure of 9% in 2012.
      Unemployment peaked at 9% in 2012.
 5. Internet adoption climbed to its highest point of 95% in 2022.
-    
+    Internet adoption peaked of 95% in 2022.
 6. Electricity consumption hit its maximum of 500 kWh per capita in 2010.
     
 7. The percentage of commuters using buses reached 72% in 2016.
