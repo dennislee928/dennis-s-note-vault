@@ -79,7 +79,7 @@ DVD rentals decreased by 50 million, falling from 50 million to 10 million units
 ### **13.**
 
 Landline usage decreased from 85% to 40% between 2000 and 2020.
-Landline usage decreased by 35%, falling from 85% to 40% between 2000 and 2020.
+Landline usage decreased by 35%, falling from 85% in 2000 to 40% between 2000 and 2020.
 
 ---
 
