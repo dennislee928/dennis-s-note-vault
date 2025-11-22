@@ -49,23 +49,23 @@ Daily water consumption peaked at 360 liters per person in 2005.
 
 Tablet ownership was 40% in 2012 and 25% in 2018.  
 → 用 **fell from A to B**（禁止 run-on）。
-Tablet ownership fell from 40% in 2012 to 25% in 2018.  
+mine-ablet ownership fell from 40% in 2012 to 25% in 2018.  
 ### **8.**
 
 Bus usage decreased from 55% in 2000 to 33% in 2010.  
 → 用 fell from A to B 造句。
-Bus usage fell from 55% to 33%, between 2000 to in 2010.  
+mine-Bus usage fell from 55% to 33%, between 2000 to in 2010.  
 ### **9.**
 
 Paper book sales dropped from 1.2 million to 0.7 million between 2010 and 2020.
-Paper book sales decreased by 0.5 million , falling from 1.2 million in 2010 to 0.7 million in 2020.
-Paper book sales fell from 1.2 million in 2010 to 0.7 million  in 2020.
+mine-Paper book sales decreased by 0.5 million , falling from 1.2 million in 2010 to 0.7 million in 2020.
+mine-Paper book sales fell from 1.2 million in 2010 to 0.7 million  in 2020.
 
 ### **10.**
 
 Employment in manufacturing decreased from 32% to 18% between 1990 and 2010.
-Employment in manufacturing fell from 32%  in 1990 to 18% in 2010. 
-Employment in manufacturing decreased by 14%, falling from 32%  in 1990 to 18% in 2010. 
+mine-Employment in manufacturing fell from 32%  in 1990 to 18% in 2010. 
+mine-Employment in manufacturing decreased by 14%, falling from 32%  in 1990 to 18% in 2010. 
 ### **11.**
 
 Desktop computer ownership was 70% in 2005 and 45% in 2020.
