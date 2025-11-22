@@ -69,13 +69,13 @@ Employment in manufacturing decreased by 14%, falling from 32%  in 1990 to 18% i
 ### **11.**
 
 Desktop computer ownership was 70% in 2005 and 45% in 2020.
-Desktop computer ownership fell from 70% in 2005 to 45% in 2020.
-Desktop computer ownership decreased by 25%, falling from 70% in 2005 to 45% in 2020.
+mine-Desktop computer ownership fell from 70% in 2005 to 45% in 2020.
+mine-Desktop computer ownership decreased by 25%, falling from 70% in 2005 to 45% in 2020.
 ### **12.**
 
 DVD rentals fell from 50 million to 10 million units between 2008 and 2018.
 
-DVD rentals decreased by 50 million, falling from 50 million to 10 million units between 2008 and 2018, which declined exactly a half .
+mine-DVD rentals decreased by 50 million, falling from 50 million to 10 million units between 2008 and 2018, which declined exactly a half .
 ### **13.**
 
 Landline usage decreased from 85% to 40% between 2000 and 2020.
