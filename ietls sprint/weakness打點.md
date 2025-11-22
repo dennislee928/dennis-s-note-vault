@@ -132,7 +132,7 @@
 15. environment-protecting issues
     environment protection issues
 16. online-learning resources usage
-    usonline-learning resources usage
+    usage of online-learning resources
 17. workers-working condition
     
 18. jobs-providing companies
