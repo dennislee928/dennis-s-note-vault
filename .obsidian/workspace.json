@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ietls sprint/weakness打點.md",
+                "file": "ietls sprint/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "weakness打點"
+              "title": "Untitled"
             }
           }
         ]
@@ -193,8 +193,9 @@
   },
   "active": "0f0cfd3849ef6ad2",
   "lastOpenFiles": [
-    "ietls sprint/weakness.md",
     "ietls sprint/weakness打點.md",
+    "ietls sprint/Untitled.md",
+    "ietls sprint/weakness.md",
     "ietls sprint/2025-11-22.md",
     "Untitled.base",
     "ietls sprint/Modifier 安全名單.md"
