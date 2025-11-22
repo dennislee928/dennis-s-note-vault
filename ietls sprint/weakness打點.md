@@ -87,7 +87,7 @@
     Vegetable imports is 20% , which is less than half of fruit imports, being 44%.
 9. Tourist numbers 10m; business travellers 4m.
     Tourist numbers are 10m, which is more than twice as high as  business travellers, being 4m.
-    Bisness numbers are 10m, which is less than half of  tourist travellers, being 10m.
+    Buisness numbers are 10m, which is less than half of  tourist travellers, being 10m.
 10. Teachers earning 60k; assistants earning 25k.
      Teachers earning is 60k, which is more than twice as high as assistants earning, being 25k.
 
