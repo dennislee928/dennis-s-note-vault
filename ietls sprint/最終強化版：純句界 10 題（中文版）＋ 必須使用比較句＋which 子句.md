@@ -67,13 +67,15 @@ Using rate of cellphone peaked at xx%/reached a peak in 2015, followed by a slig
 ### **2. 平板電腦的比例從 20% 增加到 35%，而筆電的比例則保持穩定。**
 
 → 請用 from…to…＋while（避免 run-on）
-The proportion of tablets increased from 20% to 35%, while the propo
+The proportion of tablets increased from 20% to 35% / increased by 15%, while the proportion of laptops remained stabled/nearly unchanged.
 
 ---
 
 ### **3. 書籍的銷量大幅下跌，許多人開始轉向電子書。**
 
 → 動作很多，請切兩句或用一個 which 補充
+Sales of paper-based 
+
 
 ---
 
