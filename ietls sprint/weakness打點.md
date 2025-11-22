@@ -120,7 +120,7 @@
 9. school-teaching quality
     quality of school teaching
 10. knowledge-learning efficiency
-    
+    efficiency of learning 
 11. student-studying interest
     
 12. health-protecting policy
