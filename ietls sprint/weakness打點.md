@@ -122,7 +122,7 @@
 10. knowledge-learning efficiency
     efficiency of learning knowledge
 11. student-studying interest
-     students' 
+     students' interest in stydying
 12. health-protecting policy
     
 13. budget-spending plan
