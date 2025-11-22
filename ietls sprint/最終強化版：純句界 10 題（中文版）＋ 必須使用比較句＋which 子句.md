@@ -96,7 +96,7 @@ Usage rate of bus declined by 10%, indicating the traffic will be more crowded i
 或：  
 **…was over double compared with the initial level.**
 
-While all percentages of these three types of energy increased,
+While all percentages of these three types of energy increased, the one of solar energy grew most significantly/substantially.
 
 
 ---
