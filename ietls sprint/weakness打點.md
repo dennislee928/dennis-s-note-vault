@@ -82,7 +82,7 @@
 9. Tourist numbers 10m; business travellers 4m.
     Tourist numbers are 10m, which is more than twice as high as  business travellers, being 4m.
 10. Teachers earning 60k; assistants earning 25k.
-    
+     Teachers earning is 60k, which  assistants earning 25k.
 
 ---
 
