@@ -125,7 +125,8 @@ After being filtered, the juice will then be heated to terminate bacterrias. And
 → 用 which 或 and 成兩句 → 避免 run-on
 The factory in the north side of the city was demolished to make way for the newly built park.
 The factory in the north side of the city was replaced for a new park.
-The factory in the north side of the city was removed,
+The factory in the north side of the city was removed, which was replaced by a new park.
+The factory in the north side of the city was removed, and  a new park took its place.
 
 ---
 
@@ -133,7 +134,7 @@ The factory in the north side of the city was removed,
 
 → therefore / so（二選一）  
 → 不可用逗號硬接
-
+Students 
 ---
 
 ### **10. 失業率在 2010 年達到 12%，雖然之後下降，但仍高於其他年份。**
