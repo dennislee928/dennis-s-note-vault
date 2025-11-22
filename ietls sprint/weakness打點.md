@@ -14,7 +14,7 @@
 2. Tourism arrivals hit a maximum of 12 million in 2018.
     Tourism arrivals peaked at 12 million in 2018.
 3. Renewable energy production reached its top point of 65% in 2020.
-    Renewable energy production rpeaked at 65% in 2020.
+    Renewable energy production peaked at 65% in 2020.
 4. Unemployment reached its highest figure of 9% in 2012.
     
 5. Internet adoption climbed to its highest point of 95% in 2022.
