@@ -54,7 +54,7 @@ Tablet ownership fell from 40% in 2012 to 25% in 2018.
 
 Bus usage decreased from 55% in 2000 to 33% in 2010.  
 → 用 fell from A to B 造句。
-
+Bus usage fell from 55% in 2000 to 33% in 2010.  
 ### **9.**
 
 Paper book sales dropped from 1.2 million to 0.7 million between 2010 and 2020.
