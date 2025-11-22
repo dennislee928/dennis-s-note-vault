@@ -75,11 +75,11 @@ mine-Desktop computer ownership decreased by 25%, falling from 70% in 2005 to 45
 
 DVD rentals fell from 50 million to 10 million units between 2008 and 2018.
 
-mine-DVD rentals decreased by 50 million, falling from 50 million to 10 million units between 2008 and 2018, which declined exactly a half .
+mine-DVD rentals dropped by 50 million, falling from 50 million to 10 million units between 2008 and 2018, which declined exactly a half .
 ### **13.**
 
 Landline usage decreased from 85% to 40% between 2000 and 2020.
-mine-Landline usage decreased by 35%, falling from 85% in 2000 to 40% in 2020.
+mine-Landline usage dropped by 35%, falling from 85% in 2000 to 40% in 2020.
 
 ---
 
