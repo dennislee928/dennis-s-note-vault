@@ -122,4 +122,4 @@ Air conditioners ownership of households rose sharply from 45% in 2005 to 95% in
 ### **20.**
 
 Online shopping participation increased from 10% in 2000 to 65% in 2020, and declined to 60% in 2025.
-Online shopping participation rose from 10% in 2000 to 65% in 2020, 
+Online shopping participation rose from 10% in 2000 to 65% in 2020, which inc
