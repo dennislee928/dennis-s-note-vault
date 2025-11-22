@@ -104,7 +104,7 @@
 1. paper-made products
      paper-based peoducts
 2. equipments needed
-     required equipments /equipments that are needed
+     required equipments /equipments that are needed/necessary equipment
 3. usages of digital tools
     
 4. informations provided
