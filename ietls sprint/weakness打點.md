@@ -20,7 +20,7 @@
 5. Internet adoption climbed to its highest point of 95% in 2022.
     Internet adoption peaked at 95% in 2022.
 6. Electricity consumption hit its maximum of 500 kWh per capita in 2010.
-    Electricity consumption hit its maximum of 500 kWh per capita in 2010.
+    Electricity consumption peaked at 500 kWh per capita in 2010.
 7. The percentage of commuters using buses reached 72% in 2016.
     
 8. Coffee sales hit their highest point of 3.1 billion dollars in 2020.
