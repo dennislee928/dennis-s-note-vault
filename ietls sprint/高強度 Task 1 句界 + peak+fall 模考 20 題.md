@@ -11,6 +11,8 @@
 Smartphone usage reached 94% in 2021 （最高點）。  
 → 用 **peaked at** 造句。
 
+Smartphone usage pea
+
 ### **2.**
 
 Tourism revenue hit its maximum, 130 billion dollars, in 2017.  
