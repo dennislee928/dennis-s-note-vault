@@ -114,7 +114,7 @@
 6. tablets ownership rate
     rate of tablets ownership 
 7. video-watching rate
-    
+     rate of video-watching
 8. technology-using environment
     
 9. school-teaching quality
