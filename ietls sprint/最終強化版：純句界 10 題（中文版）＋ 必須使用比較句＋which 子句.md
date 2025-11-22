@@ -109,7 +109,7 @@ While all percentages of these three types of energy increased, the one of solar
 
 → 這是典型 process → 用 after that / then 避免 run-on
 
-Fresh oranges will be washed after being transferred to factories.After t
+Fresh oranges will be washed after being transferred to factories.After that, they will be squized, followed by ....
 
 ---
 
