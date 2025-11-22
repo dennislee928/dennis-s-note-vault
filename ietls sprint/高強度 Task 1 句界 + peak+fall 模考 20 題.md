@@ -118,7 +118,7 @@ Electricity usage rose from 300 in 2000  to 580 in 2020 kWh per household from 2
 ### **19.**
 
 The percentage of households with air conditioners rose from 45% in 2005 to 78% in 2020.
-air conditioners ownership of households    rose from 45% in 2005 to 78% in 2020.
+Air conditioners ownership of households  rose from 45% in 2005 to 78% in 2020.
 ### **20.**
 
 Online shopping participation increased from 10% in 2000 to 65% in 2020.
