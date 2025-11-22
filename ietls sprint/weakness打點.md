@@ -130,9 +130,9 @@
 14. energy-saving equipments
      
 15. environment-protecting issues
-    environment protectition issues
+    environment protection issues
 16. online-learning resources usage
-    
+    usonline-learning resources usage
 17. workers-working condition
     
 18. jobs-providing companies
