@@ -227,7 +227,7 @@ Using technology in education allows students to access materials at any time, i
 
 Many young people spend excessive time on social media, which makes some companies decide to invest less in traditional advertising.
 
-Many young people spend excessive time on social media, which makes some companies decide to invest less in traditional advertising.
+Many young people spend excessive time on social media. As a result, some companies decide to invest less in traditional advertising.
 
 (不可以，有年輕人跟公司兩個主詞)
 
@@ -236,6 +236,8 @@ Many young people spend excessive time on social media, which makes some compani
 ### **13. Task 2 Cause–Effect**
 
 University tuition fees have risen sharply in recent years, which puts considerable financial pressure on both students and their families.
+
+ok
 
 ---
 
