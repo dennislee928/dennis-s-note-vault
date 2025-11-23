@@ -121,10 +121,10 @@
      Recent research on smartphone indicates that smartphone usage will affect sleep quality.
 3. 專家給父母很多關於線上學習的建議。  
     → advice on online learning
-     Much advice on online learning is giv
+     Much advice on online learning is given to parents by experts.
 4. 城市中的交通和空氣污染在過去十年間都有明顯惡化。  
     → traffic in the city / air pollution in the city / has worsened over the last decade
-    
+     traffic in urban areas and air pollution has worsened during 
 5. 在醫療科技上的進展已經拯救了無數生命。  
     → progress in medical technology
     
