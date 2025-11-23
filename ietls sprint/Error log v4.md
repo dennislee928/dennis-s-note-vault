@@ -144,7 +144,8 @@
     - The roads in urban areas decreased, expanding green area scales.
     -  The roads in urban areas decreasedAnt that expanded green area scales.
 11. 這兩個類別都上升了，但 A 的增幅更大。
-    Though both categories increased, 
+    - Though both categories increased, A rose more.
+     - A rose more while  both categories increased.
 12. 平板電腦比例波動很大，整體仍呈上升趨勢。
     
 13. 政府增加了教育預算，但教學品質沒有進步。
