@@ -34,10 +34,10 @@
      
 3. 公車使用率下降了 15%，這可能導致更多人選擇開車通勤，使城市交通更加壅塞。  
     → 可以：主句 + **which**（結果型），或主句 + as a result。
-     Bus usage dropped by 15%, which could cause more people to drive their own cars. And it will make traffic in cities become more congested.
+     Bus usage dropped by 15%, causing more people to drive their own cars. As a result, traffic in cities will be more congested.
 4. 雖然太陽能的比例波動很大，但在最後一年它成為最常被使用的能源。  
     → 用 **Although / While** 開頭，後面用 became the most widely used source。
-    
+      
 5. 許多年輕人長時間使用社群媒體，結果他們更難專心準備考試。  
     → 主句 + **as a result / therefore**，不要逗號直接接第二個完整子句。
     
