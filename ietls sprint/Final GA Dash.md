@@ -142,13 +142,15 @@ Smartphone usage peaked at 90% in 2015, which made it the most widely used devic
 Internet access rose from 40% to 95% over the period, which shows that people relied increasingly on online services.
 
 mine-
-Internet access climbed by 55% from 40% to 95% over the period, which shows that people relied increasingly on online services.
+Internet access climbed by 55% over the period, indicating that people relied increasingly on online services.
 
 ---
 
 ### **3. Task 1 對比句**
 
 Car ownership fell slightly, while public transport usage increased, which suggests that more people chose greener ways to commute.
+
+ Public transport usage increased, while car ownership experi slightly, while which suggests that more people chose greener ways to commute.
 
 ---
 
