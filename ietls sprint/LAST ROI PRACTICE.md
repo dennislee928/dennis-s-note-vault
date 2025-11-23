@@ -65,10 +65,10 @@
      DVD rentals decreased from 60 million in 2008 to 15 million in 2018.
 4. **dropped by X**  
     公車使用率在 2010–2020 年間從 50% 降到 35%（下降 15%）。
-     Bus usage 
+     Bus usage dropped by 15%, from 2010 to 2020.
 5. **peaked at**  
     觀光收入在 2019 年達到 1200 億美元的高峰。
-    
+     Tourism revenue peaked at 120 billion dollars  in 2019.
 6. **reached a low of**  
     失業率在 2002 年降到最低點 3%。
     
