@@ -401,7 +401,7 @@ paper-based materials
 4. 新鮮橘子會被清洗、篩選、壓榨、加熱，最後被裝瓶與運送。
      At first, fresh oranges will be washed, followed by being filtered.After that , they will be squeezed and heated. Eventually, the final outcome will be bottled and delivered.
 5. 雖然科技提高效率，但也造成分心，因此許多人主張學校應限制科技使用。
-     Though technology can increase efficiency
+     Though technology can increase efficiency, it can also cause distractions.Hence, many people states that application of technology in schools should be limited.
 
 ---
 
