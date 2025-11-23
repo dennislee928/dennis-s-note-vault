@@ -32,7 +32,7 @@ It has long been debated whether online courses or physical classes are more eff
 Many companies now allow employees to work remotely.  
 **Discuss the advantages and disadvantages of this development.**
 
-It has long been debated whether remote working brings more benefits or causes more problems. Although the positive outcomes of remote working are often highlighted, its negative impact cannot be underestimated. Indeed, both ad
+It has long been debated whether remote working brings more benefits or causes more problems. Although the positive outcomes of remote working are often highlighted, its negative impact cannot be underestimated. Indeed, both advantages and disadvantages are evident in this phenomenon.
 
 
 ---
