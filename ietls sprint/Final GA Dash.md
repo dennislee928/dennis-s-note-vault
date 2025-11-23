@@ -89,9 +89,9 @@
 ## **A. run-on 容易爆炸型（10 題）**
 
 1. 書籍銷量下降了 40%，電子書因此變得更受歡迎。
-     Sales of books dropped by 40%, causing electronic books became more pop
+     Sales of books dropped by 40%, causing electronic books became more popular.
 2. 太陽能使用量上升，風能卻在同一期間下降。
-    
+    Solar energy  usage increased, while  wind energy usage
 3. 網路使用率提高，使得線上購物大幅成長。
     
 4. 公車使用率下降，城市因此變得更壅塞。
