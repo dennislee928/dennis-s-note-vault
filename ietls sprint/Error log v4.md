@@ -136,7 +136,9 @@
     - Many youth don't take traditional cultures seriously.As a result, some skills to disappear quickly.
     - Some skills to disappear quickly since many youth don't take traditional cultures seriously.
 9. 使用科技能提高學習效率，但也可能造成分心。
-    Using t
+    Using technology can increase learning efficiency, while it can also cause distractions.
+    Using technology can increase learning efficiency.But it can also cause distractions.
+    Using technology can increase learning efficiency.But it can also cause distractions.
 10. 城市道路減少，使得綠地範圍擴大。
     
 11. 這兩個類別都上升了，但 A 的增幅更大。
