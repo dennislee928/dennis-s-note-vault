@@ -43,10 +43,10 @@
 
 1. 手機使用率在 2000 年是 12%，在 2020 年是 78%。  
     → 用：**rose from A to B**
-    
+    The usage of cellphone was 12% in 2000 and 78% in2020.
 2. 公車使用率在 2010–2020 年間從 52% 降到 34%。  
     → 用：**fell from A to B**
-    
+     Bus usage of
 3. 大學入學率從 40% 上升到 55%（增加 15 個百分點），時間 2005–2015。  
     → 用：**increased by X**
     
