@@ -152,11 +152,11 @@
      Governments increased budget for education, while instruction quality showed no improvement.
      Governments increased budget for education. But instruction quality showed no improvement.
 14. 許多人開始減少開車，因此空氣品質改善。
-    Many people started to drive less, leading to improvement in air quality.
-    Many people started to drive less. And that caused improvement in air quality.
-15. 
-16. 固定刑罰讓法律更公平，但限制了法官的彈性。
-    
+    Many people started to drive less, leading to improvement of air quality.
+    Many people started to drive less. And that improved of air quality.
+
+15. 固定刑罰讓法律更公平，但限制了法官的彈性。
+    Fix penalty majes laws more fair
 
 ---
 
