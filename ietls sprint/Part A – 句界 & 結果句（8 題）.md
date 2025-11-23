@@ -16,7 +16,7 @@
 3. 雖然公車使用率下降了 15%，但地鐵使用率在同一期間上升。
      Though bus usage dropped by 15%, usage of subways increased over the same period.
 4. 太陽能比例在期末達到 35%，成為三種能源中最常被使用的一種。
-    
+     The percentage of solar energy peaked at 35% in the end of the period. And it 
 5. 許多學生長時間使用社群媒體，結果他們更難專心完成作業。
     
 6. 即使政府提高了教師薪資，仍然很少年輕人願意成為老師。
