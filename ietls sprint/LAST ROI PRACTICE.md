@@ -74,10 +74,10 @@
      Unemployment percentage reached a low of 3% in 2002.
 7. **remained stable at around**  
     汽車擁有率在 2010–2020 年間大致維持在 75–78% 左右。
-     Car ownership remained stable at around 75-78% 
+     Car ownership remained stable at around 75-78% between 2010 and 2020.
 8. **fluctuated around X before rising to Y**  
     平板電腦使用率在 2010–2015 年間在 20–25% 間波動，之後在 2020 年上升到 40%。
-    
+     Tablets  usage fluctuated between 20-25% 
 
 > 小提醒：
 > 
