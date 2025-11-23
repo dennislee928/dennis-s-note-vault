@@ -34,10 +34,12 @@
 (疑慮-錯：公園 ≠ 城市的綠地面積）
      A new park was established, which expanded green areas.
 7. 線上辦公人數增加，這減少了通勤時間。
-(疑慮-錯：線上辦公人數 ≠ 城市的綠地面積）
+(疑慮-錯：線上辦公人數 ≠ 城市的通勤時間）
      The number of people working from home increased, which reduced the commute time.
 8. 房價上升，這使年輕人更難買房。
      The prices of housing properties increased, which made it more difficult for youths to purchase one.
+     
+-> 疑問，是否, which  made it能通暢使用者就建議可以使用？
 
 ---
 
