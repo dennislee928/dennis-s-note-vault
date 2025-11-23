@@ -17,12 +17,12 @@ It has long been debated whether children-oriented advertisements should be elim
 
 ---
 
-# **🟠 題目 3A — Compare & Contrast（比較兩種選項）**
+# **🟠!! 題目 3A — Compare & Contrast（比較兩種選項）**
 
 Some people prefer online learning, while others argue that in-person classes are more effective.  
 **Compare the advantages of both methods and give your opinion.**
 
-It has long been debated whether online courses or physical classes are more effective. Although it may be worthy to emphasize on the similarity aspect, the differences cannot be overlooked.Indeed, both commonalities and dissimilarities can be found be
+It has long been debated whether online courses or physical classes are more effective. Although it may be worthy to emphasize on the similarity aspect, the differences cannot be overlooked.Indeed, both commonalities and dissimilarities can be found between these two types of education.
 
 
 ---
