@@ -40,7 +40,7 @@
 
 9. 公車使用率下降 15%，這可能讓更多人改開車上班。  
     （錯：開車的人 ≠ bus usage）
-    Bus usage decreased by 15%, causing probably more people commute via driving their own vehicles.
+    Bus usage decreased by 15%, causing probably more people to commute via driving their own vehicles.
 10. 城市人口增加，這造成房租變貴。  
     （錯：rents ≠ population）
      Population in urban areas increased, causing house rents to become more expensive.
@@ -49,7 +49,7 @@
     Number of tourist visiting spots increased, causing local restaurants to hire more employees.
 12. 失業率下降，這鼓勵更多企業投資。  
     （錯：enterprises ≠ unemployment）
-    
+	    The unemployment rate decreased, encouraging more enterpris
 13. 空氣品質提升，這讓政府決定減少工廠污染。  
     （錯：government decision ≠ air quality）
     
