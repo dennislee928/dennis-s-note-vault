@@ -220,7 +220,7 @@ fluctuate = 起伏，不帶方向
 2. fell from A to B（4 題）
     The number of printed books fell from 75% in 1990 to just 30%  in 2010, which was less than half of the original figure.
 3. dropped by X（4 題）
-     The number of printed books dropped by 45% during 
+     The number of printed books dropped by 45% during these two decades, which was extremely noticeable
 
 （我等你完成後再逐句批改）
 
