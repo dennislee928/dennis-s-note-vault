@@ -399,9 +399,9 @@ paper-based materials
 3. 網路普及率上升、手機使用率提高、串流平台快速成長，使得傳統媒體失去大量市場。
     Traditional media lost great amount of proportion in the market. Because of increasing of Internet access, cellphone usage and substantial growth of streaming platforms.
 4. 新鮮橘子會被清洗、篩選、壓榨、加熱，最後被裝瓶與運送。
-     At first, fresh oranges will be washed, followed by being filtered.After that , they will be squeezed and heated
+     At first, fresh oranges will be washed, followed by being filtered.After that , they will be squeezed and heated. Eventually, the final outcome will be bottled and delivered.
 5. 雖然科技提高效率，但也造成分心，因此許多人主張學校應限制科技使用。
-    
+     Though technology can increase efficiency
 
 ---
 
