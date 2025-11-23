@@ -91,9 +91,9 @@
 1. 書籍銷量下降了 40%，電子書因此變得更受歡迎。
      Sales of books dropped by 40%, causing electronic books became more popular.
 2. 太陽能使用量上升，風能卻在同一期間下降。
-    Solar energy  usage increased, while  wind energy usage
+    Solar energy  usage increased, while  wind energy usage decreased over the same period.
 3. 網路使用率提高，使得線上購物大幅成長。
-    
+     Internet usage increased, causing online shopping grew significantly.
 4. 公車使用率下降，城市因此變得更壅塞。
     
 5. 失業率上升，政府決定增加補助。
