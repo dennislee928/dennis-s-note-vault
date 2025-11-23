@@ -107,7 +107,9 @@
     
 - 搭配：research **on** / information **about** / advice **on** / progress **in** / data **on** / traffic **in** / pollution **in/from**
      He had completed the research on the birth rate in Japan.
-     The information about neuclear fusion
+     The information about nuclear fusion has been published.
+     He gave me much advice on improving my workflows.
+     The progrew
 
 1. 政府最近發布了很多關於新稅制的資訊。  
     → information about the new tax system（用 much / a large amount of）
