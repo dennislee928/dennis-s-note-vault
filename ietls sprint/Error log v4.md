@@ -147,7 +147,7 @@
     - Though both categories increased, A rose more.
      - A rose more while  both categories increased.
 12. 平板電腦比例波動很大，整體仍呈上升趨勢。
-    
+     Though the proportion of tablets fluctuated widely, it pre
 13. 政府增加了教育預算，但教學品質沒有進步。
     
 14. 許多人開始減少開車，因此空氣品質改善。
