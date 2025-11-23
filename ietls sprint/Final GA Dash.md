@@ -173,12 +173,17 @@ Sales of printed books declined steadily, which caused many small bookstores to 
 ### **6. Task 1 波動＋最後結果**
 
 The unemployment rate fluctuated between 6% and 9% before dropping to 4% in the final year, which was the lowest figure in the whole period.
-?應該
+
+?應該可以
+
 ---
 
 ### **7. Task 1 組合圖**
 
 Spending on leisure activities increased in every age group, which can be seen clearly in both the bar chart and the pie chart.
+
+Spending on leisure activities increased in every age group
+（後面沒必要特別ㄒㄧ
 
 ---
 
