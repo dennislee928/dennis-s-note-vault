@@ -12,9 +12,9 @@
 1. 書籍銷量在十年間下降了 50%，因此許多小型書店被迫關門。
      Sales of books dropped by 50% during this decade. Therefore, many small book stores was forced to close.
 2. 網路使用率從 30% 上升到 85%，這讓線上課程變得更普遍。
-     The usage of internet increased from 30% to 85%, which made online courses more widely used
+     The usage of internet increased from 30% to 85%, which made online courses more widely accepted.
 3. 雖然公車使用率下降了 15%，但地鐵使用率在同一期間上升。
-    
+     Though bus usage dropped by 15%, usage of subways increased over the same period.
 4. 太陽能比例在期末達到 35%，成為三種能源中最常被使用的一種。
     
 5. 許多學生長時間使用社群媒體，結果他們更難專心完成作業。
