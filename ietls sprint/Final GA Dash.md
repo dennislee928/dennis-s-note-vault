@@ -94,10 +94,10 @@
     Solar energy  usage increased, while  wind energy usage decreased over the same period.
 3. 網路使用率提高，使得線上購物大幅成長。
      Internet usage increased, causing online shopping grew significantly.
-4. 公車使用率下降，城市因此變得更壅塞。
-    
+4. 公車使用率下降， 城市因此變得更壅塞。
+     Bus  usage decreased, causing cities become more crowded.
 5. 失業率上升，政府決定增加補助。
-    
+     Unemployment rate  increased.
 6. 城市北邊的工廠被拆除，這裡後來變成公園。
     
 7. 線上課程更普及，但學生的專注力卻降低。
