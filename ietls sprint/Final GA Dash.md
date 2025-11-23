@@ -131,12 +131,18 @@ ___
 ### **1. Task 1 趨勢句**
 
 In 2015, smartphone usage reached 90%, which made it the most widely used device in the chart.
-Smartphone usage peaked 
+
+mine-
+Smartphone usage peaked at 90% in 2015, which made it the most widely used device in the chart.
+
 ---
 
 ### **2. Task 1 趨勢＋原因**
 
 Internet access rose from 40% to 95% over the period, which shows that people relied increasingly on online services.
+
+mine-
+Internet access climbed by 55% from 40% to 95% over the period, which shows that people relied increasingly on online services.
 
 ---
 
