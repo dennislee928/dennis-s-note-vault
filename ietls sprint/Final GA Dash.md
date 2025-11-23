@@ -277,16 +277,22 @@ ok
 
 Traditional festivals are often commercialised, which makes some people feel that their original cultural meaning is being lost.
 
-Traditional festivals are often commercialised, which makes some people feel that their original cultural meaning is being lost.
+Traditional festivals are often commercialised, causing some people feel that their original cultural meaning is being lost.
 
+(不可以，有festival跟people 兩個主詞)
 ---
 
 ### **19. Task 2 Education 題**
 
 Some schools focus heavily on exam results, which may prevent students from developing creativity and critical thinking.
 
+ ok, 做補充用
+
 ---
 
 ### **20. Task 2 Environment 題**
 
 Governments have introduced strict regulations on factory emissions, which improved air quality in many industrial regions.
+
+
+ ok, 做補充用
