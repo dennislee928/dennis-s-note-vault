@@ -52,7 +52,7 @@ Some people think it's difficult to find what causes youth's resist to be a teac
 Many cities are facing serious water shortages.  
 **What are the problems caused by this issue, and what measures can be taken to solve it?**
 
-It has long been debated what problems are caused by serious water shortages and what measures can be taken to address them. Some people think basic survi.  Indeed, there are reasons explaining this phenomenon, and there are also negative consequences that can be obviously observed.
+It has long been debated what problems are caused by serious water shortages and what measures can be taken to address them. Some people think basic surviving for human beings is a major problem.  Indeed, there are reasons explaining these problems, and there are also measu
 
 
 ---
