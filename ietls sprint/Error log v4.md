@@ -356,9 +356,9 @@ paper-based materials
 1. A bar chart showing population in 3 cities from 1990–2020.
     Overall, all categories showed change over the period, with Pasadina experienced the most significant increase and Lura underwent the most substantial decrease.
 2. A process of producing milk powder.
-     Overall, producing milk powder requires a series of stages from beginning to ending,  including quality inspection conducted by authorities.(這是老師給的模板，我有combine你)
+     Overall, producing milk powder requires a series of stages from beginning to ending,  including quality inspection conducted by authorities.(這是老師給的模板，我有combine你的，只要檢查文法是否正確)
 3. A map of a city center being redeveloped into a pedestrian zone.
-    
+     Overall , a compairsion beteewn these maps 
 
 ---
 
