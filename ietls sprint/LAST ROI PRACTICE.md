@@ -37,7 +37,7 @@
      Bus usage dropped by 15%, causing more people to drive their own cars. As a result, traffic in cities will be more congested.
 4. 雖然太陽能的比例波動很大，但在最後一年它成為最常被使用的能源。  
     → 用 **Although / While** 開頭，後面用 became the most widely used source。
-      
+      While the percentage of solar energy usage fluctuate substantially, it became the most widely used ere
 5. 許多年輕人長時間使用社群媒體，結果他們更難專心準備考試。  
     → 主句 + **as a result / therefore**，不要逗號直接接第二個完整子句。
     
