@@ -110,7 +110,8 @@
      The information about nuclear fusion has been published.
      He gave me much advice on improving my workflows.
      The progress in producing honey-based products has  been revealed.
-     The data on the unusual err
+     The data on the unusual error of iPhone 17 has been collected.
+     Traffic in Taipei has alw
 
 1. 政府最近發布了很多關於新稅制的資訊。  
     → information about the new tax system（用 much / a large amount of）
