@@ -28,7 +28,7 @@
 6. 新的公園被建立，這增加了城市的綠地面積。
      A new park was established, which expanded green areas.
 7. 線上辦公人數增加，這減少了通勤時間。
-    
+     The number of people working from home increased, which reduced the commute time.
 8. 房價上升，這使年輕人更難買房。
     
 
