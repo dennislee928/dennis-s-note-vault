@@ -150,13 +150,15 @@ Internet access climbed by 55% over the period, indicating that people relied in
 
 Car ownership fell slightly, while public transport usage increased, which suggests that more people chose greener ways to commute.
 
- Public transport usage increased, while car ownership experi slightly, while which suggests that more people chose greener ways to commute.
+ Public transport usage increased, while car ownership experienced a slight decline.It suggests that more people chose greener ways to commute.
 
 ---
 
 ### **4. Task 1 動詞＋結果**
 
 The proportion of households with tablets doubled between 2010 and 2020, which encouraged app developers to create more tablet-based content.
+
+The proportion of households with tablets doubled from 2010 to 2020,  encouraging app developers to create more tablet-based content.
 
 ---
 
