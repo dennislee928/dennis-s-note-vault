@@ -3,7 +3,36 @@
 ### **→ 你目前最致命的錯誤（GRA 被壓在 6.0 的主因）**
 
 ---
-# **Spacing（標點後沒有空格）**/  **Run-on sentence（逗號連兩個完整句）** / Fragment（不完整子句）
+# **Spacing（標點後沒有空格）**/  **Run-on sentence（逗號連兩個完整句）** / Fragment（不完整子句）->which 子句不能單獨存在
+
+# # **句界（Sentence Boundary）**
+
+### **定義：**
+
+每個句子必須：
+
+- 明確有主詞
+    
+- 明確有動詞
+    
+- 明確有句號結尾
+    
+- 標點＋空格格式正確
+    
+- 不可以用逗號硬接句子
+    
+- 不可以用 which 引述新動作
+    
+
+考官最討厭的句界錯誤是：
+
+- 句子太長（35–45 字都塞在一起）
+    
+- which + 新動作
+    
+- though/although 用錯位
+    
+- therefore / however / moreover 用法錯
 
 ### **定義：**
 
