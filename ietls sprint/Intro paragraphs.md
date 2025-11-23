@@ -2,6 +2,7 @@
 
 Some people believe that schools should teach students financial management, while others think this should be learned from parents.  
 **To what extent do you agree or disagree?**
+It has long been debated whether 
 
 ---
 
