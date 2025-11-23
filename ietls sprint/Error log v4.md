@@ -187,7 +187,7 @@
 正確：
 
 - increased significantly
-    
+    the number increased significantly, rising from 25% in 2000 to 48% in 2010, which 
 - rose sharply
     
 
