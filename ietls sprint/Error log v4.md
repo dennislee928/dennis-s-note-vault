@@ -156,7 +156,7 @@
     Many people started to drive less. And that improved of air quality.
 
 15. 固定刑罰讓法律更公平，但限制了法官的彈性。
-    Fix penalty majes laws more fair
+    Fix penalty makes laws more fair, but it limits the flexibility of judges
 
 ---
 
