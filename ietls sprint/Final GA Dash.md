@@ -52,10 +52,10 @@
 	    The unemployment rate decreased, encouraging more enterprises to invest.
 13. 空氣品質提升，這讓政府決定減少工廠污染。  
     （錯：government decision ≠ air quality）
-     The air quality was improved, making governments decided to reduce pol
+     The air quality was improved, making governments decided to reduce pollution from factories.
 14. 書店變少，這使出版社被迫轉型。  
     （錯：publishers ≠ bookstores）
-    
+     The numbers of bookstores decreased, forcing publishers to focus on other 
 15. 公園面積變大，這促使更多人搬到這個地區。  
     （錯：people moving ≠ park size）
     
