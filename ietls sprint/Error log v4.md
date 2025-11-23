@@ -121,9 +121,11 @@
     Internet usage increased from 40% to 90%, making online shopping very common.
 4. 汽車使用比例提高了 20%，公車使用率卻下降了。
     Car usage increased by 20% while bus usage decreased.
+    Car usage increased by 20% ; however, bus usage decreased.
+     Car usage increased by 20% .By(In) contrast, bus usage decreased.
     
 5. 失業率在 2015 年達到高峰，之後下降，但仍高於 2000 年。
-    
+    Unemployment rate peaked at 
 6. 橘子經過清洗後會被壓榨，然後被加熱殺菌。
     
 7. 這個區域原本是工廠，現在變成了商場。
