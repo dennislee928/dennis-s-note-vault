@@ -5,6 +5,19 @@
 ---
 # **Spacing（標點後沒有空格）**/  **Run-on sentence（逗號連兩個完整句）** / Fragment（不完整子句）->which 子句不能單獨存在
 
+## Big NOs:
+- which + 新動作
+    
+- and then + 動作
+    
+- 逗號 + 句子
+    
+- which / making / followed by 開頭
+    
+- 句號後沒有空格
+    
+- 一句塞 30 字以上
+
 # # **句界（Sentence Boundary）**
 
 ### **定義：**
