@@ -62,4 +62,4 @@ It has long been debated what problems are caused by serious water shortages and
 Some people think that using technology in the classroom improves learning, while others believe it creates distraction.  
 **Discuss both views and give your opinion.**
 
-It has long been debated 
+It has long been debated whether using technology in the classroom improves learning or creates distraction.
