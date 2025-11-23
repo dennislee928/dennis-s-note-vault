@@ -192,12 +192,16 @@ Spending on leisure activities increased in every age group.
 The oranges are washed and then squeezed to extract the juice, which is later pasteurised at a high temperature.
 
 The oranges are washed and then squeezed to extract the juice.After that, it will be pasteurised at a high temperature.
-(應該可以但我會ㄧ)
+(應該可以？但我會用連接詞換掉)
 ---
 
 ### **9. Task 1 Map 描述**
 
 The factory in the northern part of the town was demolished, which was replaced by a large public park.
+
+The factory in the northern part of the town was demolished to make way for the new public park.
+
+(應該可以，但我會用片語替換)
 
 ---
 
