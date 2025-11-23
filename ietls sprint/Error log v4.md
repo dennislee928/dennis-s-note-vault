@@ -302,15 +302,15 @@ paper-based materials
 4. books-buying trend
      trend to  buy books
 5. energy-saving equipments
-     
+     energy-saving equipment
 6. online-learning resources usage
-    
+    usage of online-learning
 7. workers-working environment
-    
+    working environment
 8. school-teaching quality
-    
+     instruction quality
 9. students-reading behavior
-    
+    reading behaviors of students
 10. government-spending plans
     
 
