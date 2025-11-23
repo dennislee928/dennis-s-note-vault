@@ -13,7 +13,7 @@ Some people think that advertisements aimed at children should be banned,
 while others believe such advertising is essential for business.  
 **Discuss both views and give your opinion.**
 ___
-It has long been debated whether children-oriented 
+It has long been debated whether children-oriented advertisements should be eliminated.Some people think it's a must for 
 
 ---
 
