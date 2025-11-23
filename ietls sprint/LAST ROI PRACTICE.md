@@ -107,7 +107,7 @@
     
 - 搭配：research **on** / information **about** / advice **on** / progress **in** / data **on** / traffic **in** / pollution **in/from**
   
-  自此ㄌ
+  自主練習
      He had completed the research on the birth rate in Japan.
      The information about nuclear fusion has been published.
      He gave me much advice on improving my workflows.
