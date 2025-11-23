@@ -59,10 +59,10 @@
      The cellphone usage in Canada increased from 10% in 2005 to 70% in 2020.
 2. **increased by X**  
     大學入學率從 40% 上升到 55%（增加 15 個百分點），時間 2000–2015。
-     
+     University enrollment percentage increased by 15%, from 2000 to 2015.
 3. **fell from A to B**  
     DVD 租借量在 2008–2018 年間從 6000 萬下降到 1500 萬。
-    
+     DVD rentals decreased from 
 4. **dropped by X**  
     公車使用率在 2010–2020 年間從 50% 降到 35%（下降 15%）。
     
