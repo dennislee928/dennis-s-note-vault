@@ -127,9 +127,9 @@
 5. 失業率在 2015 年達到高峰，之後下降，但仍高於 2000 年。
     Unemployment rate reach its peak in2015, followed by a decrease, but it was still higher than the rate in 2000.
 6. 橘子經過清洗後會被壓榨，然後被加熱殺菌。
-     At first, the oranges will be washed, followed by being squeezed. Next, they will 
+     At first, the oranges will be washed, followed by being squeezed. Next, they will be heated to eliminate bacteria.
 7. 這個區域原本是工廠，現在變成了商場。
-    
+     This area used to be a factory, which wa
 8. 許多年輕人不重視傳統文化，因此某些技藝正在快速消失。
     
 9. 使用科技能提高學習效率，但也可能造成分心。
