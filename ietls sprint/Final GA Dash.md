@@ -122,9 +122,9 @@
      or
 	   Though online courses are more handy, physical interactions are still required.
 14. 因為道路拓寬了，車輛能更順暢行駛。
-     
+     Vehicles can move more smoothly since the roads were broaden.
 15. 雖然電動車使用量上升，但充電站仍然不足。
-
+Charging spots are still 
 ___
 ## **which 高強度測驗 20 題（不含答案）**
 
