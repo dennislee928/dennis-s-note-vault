@@ -300,3 +300,5 @@ ___
 The three pie charts below show the changes in annual spending by local authorities in Someland in 1980, 1990 and 2000.
 
 Summarise the information by selecting and reporting the main features, and make comparisons where relevant.![[Screenshot 2025-11-23 at 2.21.45 PM.png]]
+
+pivot: 2000 for k-12  middle 
