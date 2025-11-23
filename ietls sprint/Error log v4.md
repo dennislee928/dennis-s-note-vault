@@ -395,7 +395,7 @@ paper-based materials
 1. 這個城市在 20 年間新增了住宅區、移除了工廠，並建造了公園與商場，使得生活品質大幅提升。
     Residential areas, parks and shopping malls  were constructed during these 2 decades, while factories were removed . As a result, the living quality improved significantly.
 2. 雖然失業率在 2015 年達到 12%，之後下降，但仍高於其他年份，因此政府擔憂經濟復甦速度太慢。
-    Though the unemployment rate peaked at 12% in 2015, followed by a decrease, it was still the highest figure among all years.Hence, governments were worrying about the speed of economic
+    Though the unemployment rate peaked at 12% in 2015, followed by a decrease, it was still the highest figure among all years.Hence, governments were worrying about the speed of boosting economic was too slow.
 3. 網路普及率上升、手機使用率提高、串流平台快速成長，使得傳統媒體失去大量市場。
     
 4. 新鮮橘子會被清洗、篩選、壓榨、加熱，最後被裝瓶與運送。
