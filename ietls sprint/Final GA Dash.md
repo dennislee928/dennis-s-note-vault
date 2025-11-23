@@ -24,9 +24,9 @@
 4. 書本銷量下降，這對書店造成很大的影響。
      Sales of printed books decreased, which influenced book stores significantly.
 5. 平板電腦變得更便宜，這讓更多家庭購買它們。
-     Tablets became cheaper, which 
+     Tablets became cheaper, which allowed more households to purchase them.
 6. 新的公園被建立，這增加了城市的綠地面積。
-    
+     A new park was established, which expanded green areas.
 7. 線上辦公人數增加，這減少了通勤時間。
     
 8. 房價上升，這使年輕人更難買房。
