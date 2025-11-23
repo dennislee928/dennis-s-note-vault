@@ -18,9 +18,9 @@
 1. 網路普及率上升到 90%，這讓線上課程變得更常見。
      The usage of internet peaked at 90%, which caused online courses more common.
 2. 許多人開始使用大眾運輸，這改善了城市交通。
-     Many people started to use public transportation, which improved
+     Many people started to use public transportation, which improved traffic in cities.
 3. 太陽能比例大幅增加，這使它成為最受歡迎的能源。
-    
+     The percentage of solar energy increased substantially, which made it the most popular type o
 4. 書本銷量下降，這對書店造成很大的影響。
     
 5. 平板電腦變得更便宜，這讓更多家庭購買它們。
