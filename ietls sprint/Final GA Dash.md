@@ -209,6 +209,9 @@ The factory in the northern part of the town was demolished to make way for the 
 
 Several new pedestrian paths were added, which made the city centre significantly more accessible for walkers.
 
+Several new pedestrian paths were added, making the city centre significantly more accessible for walkers.
+(應該可以用,wh)
+
 ---
 
 ### **11. Task 2 Advantage 句**
