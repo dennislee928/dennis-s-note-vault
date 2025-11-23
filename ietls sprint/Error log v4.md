@@ -28,7 +28,7 @@
 
 - 句子太長（35–45 字都塞在一起）
     
-- which + 新動作
+- which + 新動作,- Which 子句只能接在前一句後面, 放句首 → fragment（不完整句）
     
 - though/although 用錯位
     
