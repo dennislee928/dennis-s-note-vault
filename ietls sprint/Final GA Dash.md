@@ -16,9 +16,9 @@
 這些「which」可以使用：
 
 1. 網路普及率上升到 90%，這讓線上課程變得更常見。
-     The usage of inter
+     The usage of internet peaked at 90%, which caused online courses more common.
 2. 許多人開始使用大眾運輸，這改善了城市交通。
-    
+     Many people started to use public transportation, which improved
 3. 太陽能比例大幅增加，這使它成為最受歡迎的能源。
     
 4. 書本銷量下降，這對書店造成很大的影響。
