@@ -52,10 +52,10 @@
      University enrollment rate  increased by 15% between 2005 and 2015.
 4. DVD 租借量在 2008–2018 年間從 60 百萬降到 15 百萬。  
     → 用：**dropped by X**（自己算出 X）
-     DVD rents dropped by 
+     DVD rents dropped by 75% between 2008 and 2018.
 5. 觀光收入在 2019 年達到 1200 億美元的高峰。  
     → 用：**peaked at**
-    
+     Tourism revenue peaked at 120 billion dollars in 2019.
 6. 失業率在 2003 年降到最低點 3%。  
     → 用：**reached a low of**
     
