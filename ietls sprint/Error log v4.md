@@ -260,9 +260,9 @@ fluctuate = 起伏，不帶方向
 4. Several advices were given.
     Several advice was given.
 5. The usages of these tools increased.
-    
+    The usage of these tools increased.
 6. The progresses of technology can be seen.
-    
+    Technology  progress can be seen.
 
 ---
 
