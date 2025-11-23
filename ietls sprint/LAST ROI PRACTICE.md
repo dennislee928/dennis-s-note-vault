@@ -124,13 +124,13 @@
      Much advice on online learning is given to parents by experts.
 4. 城市中的交通和空氣污染在過去十年間都有明顯惡化。  
     → traffic in the city / air pollution in the city / has worsened over the last decade
-     traffic in urban areas and air pollution has worsened during 
+     Traffic  and air pollution in urban areas has worsened during last decade
 5. 在醫療科技上的進展已經拯救了無數生命。  
     → progress in medical technology
-    
+      Progress in medical technology has saved countless lives.
 6. 這家公司投資了新設備和員工訓練，以提升工作效率。  
     → new equipment / staff training / improve work efficiency
-    
+      
 
 > 建議做法：  
 > 每題寫完後檢查三件事：  
