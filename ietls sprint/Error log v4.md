@@ -129,9 +129,9 @@
 6. 橘子經過清洗後會被壓榨，然後被加熱殺菌。
      At first, the oranges will be washed, followed by being squeezed. Next, they will be heated to eliminate bacteria.
 7. 這個區域原本是工廠，現在變成了商場。
-     This area used to be a factory, which wa
+     This area used to be a factory, which is now a shopping mall.
 8. 許多年輕人不重視傳統文化，因此某些技藝正在快速消失。
-    
+    Many youth don't take traditional cultures serious
 9. 使用科技能提高學習效率，但也可能造成分心。
     
 10. 城市道路減少，使得綠地範圍擴大。
