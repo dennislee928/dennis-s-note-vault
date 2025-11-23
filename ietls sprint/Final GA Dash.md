@@ -304,4 +304,5 @@ Summarise the information by selecting and reporting the main features, and make
 pivot: 2000 for k-12  middle percentage.
 
 ___
-Changes in annual expenditure by local authorities in Someland in 1980, 1990 and 2000 are presented in the graphs.
+Changes in annual expenditure by local authorities in Someland in 1980, 1990 and 2000 are presented in the graphs. In general, expenditure on environmental services are 
+
