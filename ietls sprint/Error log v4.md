@@ -207,8 +207,7 @@ fluctuate = 起伏，不帶方向
 要寫成：
 
 - fluctuated around X before rising to Y
-    
-
+    The percentage fluctuated around 
 ---
 
 ## **【Tonight Drill — Section 2（12 題）】**
