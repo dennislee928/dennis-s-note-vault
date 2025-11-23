@@ -18,7 +18,7 @@
 4. 太陽能比例在期末達到 35%，成為三種能源中最常被使用的一種。
      The percentage of solar energy peaked at 35% near the end of the period. And it became the most used source among all three types of energy.
 5. 許多學生長時間使用社群媒體，結果他們更難專心完成作業。
-    
+     Many students used social media for a long period. As a result, they found it difficult to stay focus on studying.
 6. 即使政府提高了教師薪資，仍然很少年輕人願意成為老師。
     
 7. 城市北邊的工廠被拆除，這塊土地後來被改建成住宅區。
