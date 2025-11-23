@@ -261,15 +261,21 @@ Traffic congestion has become worse in major cities, forcing local governments t
 
 Working from home can reduce commuting time, which many employees see as a major advantage compared with traditional office work.
 
+ok
+
 ---
 
 ### **17. Task 2 Negative Effect**
 
 Online shopping has become more convenient and affordable, which leads many small local shops to struggle to survive.
 
+ok
+
 ---
 
 ### **18. Task 2 Culture 題**
+
+Traditional festivals are often commercialised, which makes some people feel that their original cultural meaning is being lost.
 
 Traditional festivals are often commercialised, which makes some people feel that their original cultural meaning is being lost.
 
