@@ -27,7 +27,7 @@ It has long been debated whether online courses or physical classes are more eff
 
 ---
 
-# **🟡 題目 3B — Advantages & Disadvantages（利弊題）**
+# **🟡 !!題目 3B — Advantages & Disadvantages（利弊題）**
 
 Many companies now allow employees to work remotely.  
 **Discuss the advantages and disadvantages of this development.**
@@ -37,10 +37,13 @@ It has long been debated whether remote working brings more benefits or causes m
 
 ---
 
-# **🔴 題目 4 — Cause & Effect（原因 + 影響）**
+# **🔴 !!題目 4 — Cause & Effect（原因 + 影響）**
 
 In many countries, fewer young people choose to become school teachers.  
 **Why is this happening, and what effects does this trend have on society?**
+
+It has long been debated why fewer youth choose to become school teachers in many countries.
+Some people fin
 
 ---
 
