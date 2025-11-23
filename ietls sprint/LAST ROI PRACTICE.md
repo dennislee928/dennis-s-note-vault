@@ -111,11 +111,11 @@
      He gave me much advice on improving my workflows.
      The progress in producing honey-based products has  been revealed.
      The data on the unusual error of iPhone 17 has been collected.
-     Traffic in Taipei has alw
+     Traffic in Taipei has always been congested, especially during rush hours.
 
 1. 政府最近發布了很多關於新稅制的資訊。  
     → information about the new tax system（用 much / a large amount of）
-    
+     Much information about the new tax sys
 2. 近年的研究顯示，長時間使用手機會影響睡眠品質。  
     → recent research on smartphone use and sleep quality
     
