@@ -16,21 +16,24 @@
 這些「which」可以使用：
 
 1. 網路普及率上升到 90%，這讓線上課程變得更常見。
-（疑慮錯：開車的人 ≠ bus usage）
+（疑慮-錯：路普及率 ≠ 線上課程）
      The usage of internet peaked at 90%, which caused online courses more common.
-3. 許多人開始使用大眾運輸，這改善了城市交通。
+    
+2. 許多人開始使用大眾運輸，這改善了城市交通。
+（疑慮-錯：許多人/ 大眾運輸 ≠ 城市交通）
      Many people started to use public transportation, which improved traffic in cities.
-4. 太陽能比例大幅增加，這使它成為最受歡迎的能源。
+3. 太陽能比例大幅增加，這使它成為最受歡迎的能源。
      The percentage of solar energy increased substantially, which made it the most popular type of energy.
-5. 書本銷量下降，這對書店造成很大的影響。
+4. 書本銷量下降，這對書店造成很大的影響。
+(疑慮-錯：許多人/ 大眾運輸 ≠ 城市交通）
      Sales of printed books decreased, which influenced book stores significantly.
-6. 平板電腦變得更便宜，這讓更多家庭購買它們。
+5. 平板電腦變得更便宜，這讓更多家庭購買它們。
      Tablets became cheaper, which allowed more households to purchase them.
-7. 新的公園被建立，這增加了城市的綠地面積。
+6. 新的公園被建立，這增加了城市的綠地面積。
      A new park was established, which expanded green areas.
-8. 線上辦公人數增加，這減少了通勤時間。
+7. 線上辦公人數增加，這減少了通勤時間。
      The number of people working from home increased, which reduced the commute time.
-9. 房價上升，這使年輕人更難買房。
+8. 房價上升，這使年輕人更難買房。
      The prices of housing properties increased, which made it more difficult for youths to purchase one.
 
 ---
