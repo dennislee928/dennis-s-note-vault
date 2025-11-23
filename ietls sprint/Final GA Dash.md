@@ -89,7 +89,7 @@
 ## **A. run-on 容易爆炸型（10 題）**
 
 1. 書籍銷量下降了 40%，電子書因此變得更受歡迎。
-    
+     Sales of books dropped by 40%, causing electronic books became more pop
 2. 太陽能使用量上升，風能卻在同一期間下降。
     
 3. 網路使用率提高，使得線上購物大幅成長。
@@ -123,4 +123,123 @@
     
 15. 雖然電動車使用量上升，但充電站仍然不足。
 
-＿＿
+___
+## **which 高強度測驗 20 題（不含答案）**
+
+### **1. Task 1 趨勢句**
+
+In 2015, smartphone usage reached 90%, which made it the most widely used device in the chart.
+
+---
+
+### **2. Task 1 趨勢＋原因**
+
+Internet access rose from 40% to 95% over the period, which shows that people relied increasingly on online services.
+
+---
+
+### **3. Task 1 對比句**
+
+Car ownership fell slightly, while public transport usage increased, which suggests that more people chose greener ways to commute.
+
+---
+
+### **4. Task 1 動詞＋結果**
+
+The proportion of households with tablets doubled between 2010 and 2020, which encouraged app developers to create more tablet-based content.
+
+---
+
+### **5. Task 1 「多動作串接」**
+
+Sales of printed books declined steadily, which caused many small bookstores to close and which also reduced cultural diversity in some areas.
+
+---
+
+### **6. Task 1 波動＋最後結果**
+
+The unemployment rate fluctuated between 6% and 9% before dropping to 4% in the final year, which was the lowest figure in the whole period.
+
+---
+
+### **7. Task 1 組合圖**
+
+Spending on leisure activities increased in every age group, which can be seen clearly in both the bar chart and the pie chart.
+
+---
+
+### **8. Task 1 Process 描述**
+
+The oranges are washed and then squeezed to extract the juice, which is later pasteurised at a high temperature.
+
+---
+
+### **9. Task 1 Map 描述**
+
+The factory in the northern part of the town was demolished, which was replaced by a large public park.
+
+---
+
+### **10. Task 1 Map + 結果**
+
+Several new pedestrian paths were added, which made the city centre significantly more accessible for walkers.
+
+---
+
+### **11. Task 2 Advantage 句**
+
+Using technology in education allows students to access materials at any time, which increases the flexibility of their learning.
+
+---
+
+### **12. Task 2 Problem 句**
+
+Many young people spend excessive time on social media, which makes some companies decide to invest less in traditional advertising.
+
+---
+
+### **13. Task 2 Cause–Effect**
+
+University tuition fees have risen sharply in recent years, which puts considerable financial pressure on both students and their families.
+
+---
+
+### **14. Task 2 Discuss Both Views**
+
+Some people argue that fixed punishments make the legal system fairer, which is considered essential for maintaining social order.
+
+---
+
+### **15. Task 2 Problem–Solution**
+
+Traffic congestion has become worse in major cities, which forces local governments to consider introducing congestion charges.
+
+---
+
+### **16. Task 2 Compare Options**
+
+Working from home can reduce commuting time, which many employees see as a major advantage compared with traditional office work.
+
+---
+
+### **17. Task 2 Negative Effect**
+
+Online shopping has become more convenient and affordable, which leads many small local shops to struggle to survive.
+
+---
+
+### **18. Task 2 Culture 題**
+
+Traditional festivals are often commercialised, which makes some people feel that their original cultural meaning is being lost.
+
+---
+
+### **19. Task 2 Education 題**
+
+Some schools focus heavily on exam results, which may prevent students from developing creativity and critical thinking.
+
+---
+
+### **20. Task 2 Environment 題**
+
+Governments have introduced strict regulations on factory emissions, which improved air quality in many industrial regions.
