@@ -166,12 +166,14 @@ The proportion of households with tablets doubled from 2010 to 2020,  encouragin
 
 Sales of printed books declined steadily, which caused many small bookstores to close and which also reduced cultural diversity in some areas.
 
+Sales of printed books declined steadily, which caused many small bookstores to close.In addition, it also reduced cultural diversity in some areas.
+
 ---
 
 ### **6. Task 1 波動＋最後結果**
 
 The unemployment rate fluctuated between 6% and 9% before dropping to 4% in the final year, which was the lowest figure in the whole period.
-
+?應該
 ---
 
 ### **7. Task 1 組合圖**
