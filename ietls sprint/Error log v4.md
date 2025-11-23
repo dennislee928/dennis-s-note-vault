@@ -298,11 +298,11 @@ paper-based materials
 2. student-learning motivation
      learning motivations of students
 3. technology-using practices
-    
+    technology-oriented practices
 4. books-buying trend
-    
+     trend to  buy books
 5. energy-saving equipments
-    
+     
 6. online-learning resources usage
     
 7. workers-working environment
