@@ -46,10 +46,10 @@
     The usage of cellphone was 12% in 2000 and 78% in2020.
 2. 公車使用率在 2010–2020 年間從 52% 降到 34%。  
     → 用：**fell from A to B**
-     Bus usage of
+     Bus usage decreased from 52% to 34% between 2010 and 2020.
 3. 大學入學率從 40% 上升到 55%（增加 15 個百分點），時間 2005–2015。  
     → 用：**increased by X**
-    
+     
 4. DVD 租借量在 2008–2018 年間從 60 百萬降到 15 百萬。  
     → 用：**dropped by X**（自己算出 X）
     
