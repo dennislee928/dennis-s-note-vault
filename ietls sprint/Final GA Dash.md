@@ -244,6 +244,7 @@ ok
 ### **14. Task 2 Discuss Both Views**
 
 Some people argue that fixed punishments make the legal system fairer, which is considered essential for maintaining social order.
+ok
 
 ---
 
@@ -251,6 +252,9 @@ Some people argue that fixed punishments make the legal system fairer, which is 
 
 Traffic congestion has become worse in major cities, which forces local governments to consider introducing congestion charges.
 
+Traffic congestion has become worse in major cities, forcing local governments to consider introducing congestion charges.
+
+(不可以，有traffic跟政府兩個主詞)
 ---
 
 ### **16. Task 2 Compare Options**
