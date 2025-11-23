@@ -58,7 +58,7 @@
      Tourism revenue peaked at 120 billion dollars in 2019.
 6. 失業率在 2003 年降到最低點 3%。  
     → 用：**reached a low of**
-    
+     Unemployment rate reached a low of 3% in 2003.
 
 寫完後逐題檢查：
 
