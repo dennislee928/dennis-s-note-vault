@@ -30,7 +30,7 @@
 7. 線上辦公人數增加，這減少了通勤時間。
      The number of people working from home increased, which reduced the commute time.
 8. 房價上升，這使年輕人更難買房。
-     The prices of housing properties increased, which made it more difficult for youths to pur
+     The prices of housing properties increased, which made it more difficult for youths to purchase one.
 
 ---
 
@@ -40,7 +40,7 @@
 
 9. 公車使用率下降 15%，這可能讓更多人改開車上班。  
     （錯：開車的人 ≠ bus usage）
-    
+    Bus usage decreased by 15%, causing probably more people commute 
 10. 城市人口增加，這造成房租變貴。  
     （錯：rents ≠ population）
     
