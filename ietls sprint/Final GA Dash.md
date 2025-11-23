@@ -105,9 +105,9 @@
 8. 觀光收入下降，當地商店受到影響。
      Tourism revenues decreased.As a result, local shops were influenced.
 9. 這家公司提高薪水，但仍然找不到足夠員工。
-     Although this company raised their payments, it still could not cind 
+     Although this company raised their payments, it still could not find sufficient employees.
 10. 城市新增了停車場，但綠地因此變少了。
-    
+     A new parking 
 
 ---
 
