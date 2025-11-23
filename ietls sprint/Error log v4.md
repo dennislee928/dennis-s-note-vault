@@ -131,10 +131,12 @@
 7. 這個區域原本是工廠，現在變成了商場。
      This area used to be a factory, which is now a shopping mall.
 8. 許多年輕人不重視傳統文化，因此某些技藝正在快速消失。
-    Many youth don't take traditional cultures seriously , causing some skills to disappear quickly.
-    Many youth don't take traditional cultures seriously.Therefore, some skills to disappear quickly.
+    - Many youth don't take traditional cultures seriously , causing some skills to disappear quickly.
+    - Many youth don't take traditional cultures seriously.Therefore, some skills to disappear quickly.
+    - Many youth don't take traditional cultures seriously.As a result, some skills to disappear quickly.
+    - Some skills to disappear quickly since many youth don't take traditional cultures seriously.
 9. 使用科技能提高學習效率，但也可能造成分心。
-    
+    Using t
 10. 城市道路減少，使得綠地範圍擴大。
     
 11. 這兩個類別都上升了，但 A 的增幅更大。
