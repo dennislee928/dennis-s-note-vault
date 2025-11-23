@@ -306,7 +306,7 @@ pivot: 2000 for k-12  middle percentage.
 ___
 Changes in 6 types of annual expenditure by local authorities in Someland in 1980, 1990 and 2000 are presented in the graphs. In general,   most expenditure decreased while higher education cost the most.
 
-It is clear that the percentage of transportation expenditure grew most significantly by 6%. It dropped from 16%  in 1980 to just 6% in 1990, followed by a sharply increase and peaked at 22% in 2000.By contrast,  the percentage of K-12 education expenditure decreased by 7% 
-
+It is clear that the percentage of transportation expenditure grew most significantly by 6%. It dropped from 16%  in 1980 to just 6% in 1990, followed by a sharply increase and peaked at 22% in 2000.By contrast,  the percentage of K-12 education expenditure decreased by 7%, and 
+the percentage of health and human resources expenditure decreased by 4%
 
 of annual expenditure on higher education was always the highest one over the period.It increased from 35% in 1980 to 45% in 1990.And even though it experienced a 5% decline afterwards, it was still the highest figure in 2000.
