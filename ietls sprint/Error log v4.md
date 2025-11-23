@@ -359,7 +359,7 @@ paper-based materials
      Overall, producing milk powder requires a series of stages from beginning to ending,  including quality inspection conducted by authorities.(這是老師給的模板，我有combine你的，只要檢查文法是否正確)
 3. A map of a city center being redeveloped into a pedestrian zone.
      Overall , a comparison between these maps shows a change from a less pedestrian-friendly to a more pedestrian-friendly area.(這是老師給的模板，
-     原版是Overall , a comparison between these maps shows a change from a more rural  to a mainly urban ,andscape..
+     原版是Overall , a comparison between these maps shows a change from a more rural  to a mainly urban landscape.
      我有combine你的，只要檢查文法是否正確)
 
 ---
