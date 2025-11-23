@@ -304,5 +304,5 @@ Summarise the information by selecting and reporting the main features, and make
 pivot: 2000 for k-12  middle percentage.
 
 ___
-Changes in annual expenditure by local authorities in Someland in 1980, 1990 and 2000 are presented in the graphs. In general, expenditure on environmental services are 
+Changes in 6 types of annual expenditure by local authorities in Someland in 1980, 1990 and 2000 are presented in the graphs. In general, expenditure on environmental services are the highest among all types of expenditure
 
