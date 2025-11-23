@@ -103,9 +103,9 @@
 7. 線上課程更普及，但學生的專注力卻降低。
      While online courses became more widely accepted, students' focusing degree decreased.
 8. 觀光收入下降，當地商店受到影響。
-    
+     Tourism revenues decreased.As a result, local shops were influenced.
 9. 這家公司提高薪水，但仍然找不到足夠員工。
-    
+     Altho
 10. 城市新增了停車場，但綠地因此變少了。
     
 
