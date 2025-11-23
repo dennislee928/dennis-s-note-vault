@@ -13,7 +13,7 @@ Some people think that advertisements aimed at children should be banned,
 while others believe such advertising is essential for business.  
 **Discuss both views and give your opinion.**
 ___
-It has long been debated whether children-oriented advertisements should be eliminated.Some people think it's a must for business operating, while others hold opposite opinions.Although I firmly believe that this kind of advertisement can damage children in various aspects, the viewpoints f
+It has long been debated whether children-oriented advertisements should be eliminated.Some people think it's a must for business operating, while others hold opposite opinions. Although I firmly believe that this kind of advertisement can damage children in various aspects, the viewpoints from both sides of the argument will be presented in the following paragraphs. 
 
 ---
 
