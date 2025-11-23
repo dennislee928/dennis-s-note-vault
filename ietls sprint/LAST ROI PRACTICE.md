@@ -77,7 +77,7 @@
      Car ownership remained stable at around 75-78% between 2010 and 2020.
 8. **fluctuated around X before rising to Y**  
     平板電腦使用率在 2010–2015 年間在 20–25% 間波動，之後在 2020 年上升到 40%。
-     Tablets  usage fluctuated between 20-25% 
+     Tablets  usage fluctuated between 20-25% from 2010 to 2015, and climbed to 40% in 2020 afterwards.
 
 > 小提醒：
 > 
