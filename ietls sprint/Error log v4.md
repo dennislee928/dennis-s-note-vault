@@ -176,9 +176,9 @@
     The percentage peaked at 90% in 2000. Following that, it experienced a slight decrease.
     The percentage peaked at 90% in 2000, followed by a slight decrease.
 - “peaked to 97% eventually”
-    After that, the number peaked at 97% eventually
+    After that, the number peaked at 97% eventually and remained unchanged.
 - “peaked eventually to …”
-    
+    After that, the number peaked  at 97% at last
 
 ---
 
