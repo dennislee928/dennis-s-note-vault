@@ -182,8 +182,8 @@ The unemployment rate fluctuated between 6% and 9% before dropping to 4% in the 
 
 Spending on leisure activities increased in every age group, which can be seen clearly in both the bar chart and the pie chart.
 
-Spending on leisure activities increased in every age group
-（後面沒必要特別ㄒㄧ
+Spending on leisure activities increased in every age group.
+（後面沒必要特別寫）
 
 ---
 
@@ -191,6 +191,8 @@ Spending on leisure activities increased in every age group
 
 The oranges are washed and then squeezed to extract the juice, which is later pasteurised at a high temperature.
 
+The oranges are washed and then squeezed to extract the juice.After that, it will be pasteurised at a high temperature.
+(應該可以但我會ㄧ)
 ---
 
 ### **9. Task 1 Map 描述**
