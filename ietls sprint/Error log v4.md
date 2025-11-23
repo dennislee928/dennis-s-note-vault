@@ -393,7 +393,7 @@ paper-based materials
 把下列「超長中文句」拆成 **2 句自然英文**：
 
 1. 這個城市在 20 年間新增了住宅區、移除了工廠，並建造了公園與商場，使得生活品質大幅提升。
-    Residential areas, parks and shopping malls  were constructed during these 2 decades. By contrast factories were removed during these 2 decades.
+    Residential areas, parks and shopping malls  were constructed during these 2 decades, while  factories were removed . As a result, living quality 
 2. 雖然失業率在 2015 年達到 12%，之後下降，但仍高於其他年份，因此政府擔憂經濟復甦速度太慢。
     
 3. 網路普及率上升、手機使用率提高、串流平台快速成長，使得傳統媒體失去大量市場。
