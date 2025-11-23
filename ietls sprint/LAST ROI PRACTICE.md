@@ -106,6 +106,8 @@
 - 不可數：research / information / advice / traffic / pollution / progress / data / equipment / education / work
     
 - 搭配：research **on** / information **about** / advice **on** / progress **in** / data **on** / traffic **in** / pollution **in/from**
+  
+  自此ㄌ
      He had completed the research on the birth rate in Japan.
      The information about nuclear fusion has been published.
      He gave me much advice on improving my workflows.
@@ -130,7 +132,7 @@
       Progress in medical technology has saved countless lives.
 6. 這家公司投資了新設備和員工訓練，以提升工作效率。  
     → new equipment / staff training / improve work efficiency
-      
+      This company invest in new equipment and employee training to improve working efficiency.
 
 > 建議做法：  
 > 每題寫完後檢查三件事：  
