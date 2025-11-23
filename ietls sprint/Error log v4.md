@@ -220,7 +220,7 @@ fluctuate = 起伏，不帶方向
 2. fell from A to B（4 題）
     The number of printed books fell from 75% in 1990 to just 30%  in 2010, which was less than half of the original figure.
 3. dropped by X（4 題）
-     The number of printed books dropped by 45% during these two decades, which was extremely noticeable
+     The number of printed books dropped by 45% during these two decades, which was extremely noticeable.
 
 （我等你完成後再逐句批改）
 
@@ -252,13 +252,13 @@ fluctuate = 起伏，不帶方向
 請將下列句子改成正確英文：
 
 1. Many informations were provided.
-    
+    Much information was provided.
 2. Much equipments are required.
-    
+    Much equipment is required.
 3. The datas is shown in the chart.
-    
+    The datas are shown in the chart.
 4. Several advices were given.
-    
+    Several advice was given.
 5. The usages of these tools increased.
     
 6. The progresses of technology can be seen.
