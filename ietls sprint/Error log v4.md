@@ -156,7 +156,7 @@
     Many people started to drive less. And that improved of air quality.
 
 15. 固定刑罰讓法律更公平，但限制了法官的彈性。
-    Fix penalty makes laws more fair, but it limits the flexibility of judges
+    Fix penalty makes laws more fair, but it limits the flexibility of judges.
 
 ---
 
@@ -173,7 +173,7 @@
 你的錯例：
 
 - “peaked to 90%”
-    
+    the percentage peaked at 90% in 2000, though it experienced 
 - “peaked to 97% eventually”
     
 - “peaked eventually to …”
@@ -215,6 +215,7 @@ fluctuate = 起伏，不帶方向
 請用 **指定動詞模板** 寫一句 Task 1 句子：
 
 1. peaked at（4 題）
+
     
 2. fell from A to B（4 題）
     
