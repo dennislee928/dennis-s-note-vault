@@ -116,9 +116,9 @@
 1. 電子書銷量大幅上升，許多書店因此倒閉。
     Sales of electronic books increased substantially, causing many book stores to close.
 2. 體育場被拆除，這塊地改建成學生宿舍。
-    The stadium was cleared to make wyay
+    The stadium was cleared to make way for the new student dorms.
 3. 網路使用率從 40% 上升到 90%，讓線上購物變得非常普遍。
-    
+    Internet usage increased from 40% to 90%
 4. 汽車使用比例提高了 20%，公車使用率卻下降了。
     
 5. 失業率在 2015 年達到高峰，之後下降，但仍高於 2000 年。
