@@ -216,7 +216,7 @@ fluctuate = 起伏，不帶方向
 
 1. peaked at（4 題）
 
-     The number of paper
+     The number of printed books peaked at 75% in 1990, followed by a substan
 2. fell from A to B（4 題）
     
 3. dropped by X（4 題）
