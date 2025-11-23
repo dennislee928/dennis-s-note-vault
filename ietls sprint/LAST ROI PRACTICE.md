@@ -71,10 +71,10 @@
      Tourism revenue peaked at 120 billion dollars  in 2019.
 6. **reached a low of**  
     失業率在 2002 年降到最低點 3%。
-    
+     Unemployment percentage reached a low of 3% in 2002.
 7. **remained stable at around**  
     汽車擁有率在 2010–2020 年間大致維持在 75–78% 左右。
-    
+     Car ownership remained stable at around 75-78% 
 8. **fluctuated around X before rising to Y**  
     平板電腦使用率在 2010–2015 年間在 20–25% 間波動，之後在 2020 年上升到 40%。
     
