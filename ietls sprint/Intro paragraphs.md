@@ -22,6 +22,9 @@ It has long been debated whether children-oriented advertisements should be elim
 Some people prefer online learning, while others argue that in-person classes are more effective.  
 **Compare the advantages of both methods and give your opinion.**
 
+It has long been debated 
+
+
 ---
 
 # **🟡 題目 3B — Advantages & Disadvantages（利弊題）**
