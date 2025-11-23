@@ -118,11 +118,11 @@
 12. 雖然工廠已經搬走了，交通仍然很擁塞。
      Traffic is still horrible even though the factory had been moved away.
 13. 雖然線上課程更方便，但仍需要面對面互動。
-     Face-to-face interactions are still necessary , though online courses are more convenient.
+     Though online courses are more convenient, face-to-face interactions are still necessary.
      or
-     Physical interactions are still required even though online courses are more convenient.
+	   Though online courses are more handy, physical interactions are still required.
 14. 因為道路拓寬了，車輛能更順暢行駛。
-    
+     
 15. 雖然電動車使用量上升，但充電站仍然不足。
 
 ___
