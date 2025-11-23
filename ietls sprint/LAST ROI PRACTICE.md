@@ -115,10 +115,10 @@
 
 1. 政府最近發布了很多關於新稅制的資訊。  
     → information about the new tax system（用 much / a large amount of）
-     Much information about the new tax sys
+     Much information about the new tax system is released recently.
 2. 近年的研究顯示，長時間使用手機會影響睡眠品質。  
     → recent research on smartphone use and sleep quality
-    
+     Recent research on smartphone indicates that  usage and sleep quality
 3. 專家給父母很多關於線上學習的建議。  
     → advice on online learning
     
