@@ -397,7 +397,7 @@ paper-based materials
 2. 雖然失業率在 2015 年達到 12%，之後下降，但仍高於其他年份，因此政府擔憂經濟復甦速度太慢。
     Though the unemployment rate peaked at 12% in 2015, followed by a decrease, it was still the highest figure among all years.Hence, governments were worrying about the speed of boosting economic was too slow.
 3. 網路普及率上升、手機使用率提高、串流平台快速成長，使得傳統媒體失去大量市場。
-    Traditional media lost great amount of proportion in the market.Becaus
+    Traditional media lost great amount of proportion in the market. Because of increasing of Internet access, cellphone usage, 
 4. 新鮮橘子會被清洗、篩選、壓榨、加熱，最後被裝瓶與運送。
     
 5. 雖然科技提高效率，但也造成分心，因此許多人主張學校應限制科技使用。
