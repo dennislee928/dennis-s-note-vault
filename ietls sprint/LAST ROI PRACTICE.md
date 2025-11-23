@@ -28,7 +28,9 @@
     Cellphone usage peaked at 85%, though experienced a slight decrease afterwards, it was still the highest figure among all devices.
 2. 網路使用率從 45% 上升到 95%，因此線上購物變得更普遍。  
     → 建議用兩句：主句 + **Therefore / As a result**。
-     Internet usage  inc
+     Internet usage  increased from 45% to 95%. As a result, online shopping became more widely used.
+     Internet usage  increased from 45% to 95%, which made online shopping became more widely used.
+     
 3. 公車使用率下降了 15%，這可能導致更多人選擇開車通勤，使城市交通更加壅塞。  
     → 可以：主句 + **which**（結果型），或主句 + as a result。
     
