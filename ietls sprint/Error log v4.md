@@ -178,7 +178,7 @@
 - “peaked to 97% eventually”
     After that, the number peaked at 97% eventually and remained unchanged.
 - “peaked eventually to …”
-    After that, the number peaked  at 97% at last
+    Eventually, the number peaked  at 97%.
 
 ---
 
