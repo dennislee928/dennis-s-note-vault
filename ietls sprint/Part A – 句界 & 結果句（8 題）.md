@@ -22,7 +22,7 @@
 6. 即使政府提高了教師薪資，仍然很少年輕人願意成為老師。
      Though governments increased salaries, few young people were willing to become teachers.
 7. 城市北邊的工廠被拆除，這塊土地後來被改建成住宅區。
-      The factory located in the southern side of the city was demolished. 
+      The factory located in the southern side of the city was demolished. This area was reconstructed into a residential 
 8. 新的步行街建成後，市中心變得對行人更加友善。
     
 
