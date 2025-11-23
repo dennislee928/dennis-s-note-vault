@@ -149,9 +149,10 @@
 12. 平板電腦比例波動很大，整體仍呈上升趨勢。
      Though the proportion of tablets fluctuated widely, it presents an overall uptrend.
 13. 政府增加了教育預算，但教學品質沒有進步。
-     Governments increased budget for education, while instruction quality 
+     Governments increased budget for education, while instruction quality showed no improvement.
+     Governments increased budget for education. But instruction quality showed no improvement.
 14. 許多人開始減少開車，因此空氣品質改善。
-    
+    Many people started to drive less, causing 
 15. 固定刑罰讓法律更公平，但限制了法官的彈性。
     
 
