@@ -294,9 +294,9 @@ fluctuate = 起伏，不帶方向
 把下列變自然（不改意思）：
 
 1. paper-made materials
-    
+paper-based materials
 2. student-learning motivation
-    
+     learning motivations of students
 3. technology-using practices
     
 4. books-buying trend
