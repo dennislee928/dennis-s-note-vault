@@ -207,7 +207,7 @@ fluctuate = 起伏，不帶方向
 要寫成：
 
 - fluctuated around X before rising to Y
-    The percentage fluctuated around 58% to 72% between 2000 and 2 before it rose steadily to 90% in 2010.After that 
+    The percentage fluctuated around 58% to 72% between 2000 and 2007 before it rose steadily to 90% in 2010. After that , it peaked at 98% in 2012 eventually.
 ---
 
 ## **【Tonight Drill — Section 2（12 題）】**
@@ -216,7 +216,7 @@ fluctuate = 起伏，不帶方向
 
 1. peaked at（4 題）
 
-    
+     The number of paper
 2. fell from A to B（4 題）
     
 3. dropped by X（4 題）
