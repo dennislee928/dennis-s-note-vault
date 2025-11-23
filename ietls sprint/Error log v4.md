@@ -125,7 +125,7 @@
      Car usage increased by 20% .By(In) contrast, bus usage decreased.
     
 5. 失業率在 2015 年達到高峰，之後下降，但仍高於 2000 年。
-    Unemployment rate peaked at 
+    Unemployment rate reach its peak in2015, followed by a decrease, but it was still higher than the rate i
 6. 橘子經過清洗後會被壓榨，然後被加熱殺菌。
     
 7. 這個區域原本是工廠，現在變成了商場。
