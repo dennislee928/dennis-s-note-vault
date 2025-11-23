@@ -40,7 +40,7 @@
       While the percentage of solar energy usage fluctuate substantially, it became the most widely used energy.
 5. 許多年輕人長時間使用社群媒體，結果他們更難專心準備考試。  
     → 主句 + **as a result / therefore**，不要逗號直接接第二個完整子句。
-     Many youth use social media for a long period
+     Many youth use social media for a long period. Therefore, it become more difficult for them to focus on preparing exams.
 6. 即使政府增加了在教育上的支出，課堂品質仍然沒有明顯改善，許多家長因此感到失望。  
     → 建議拆兩句：Although / Even though…，第二句用 **As a result / Consequently**。
     
