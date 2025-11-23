@@ -218,14 +218,18 @@ Several new pedestrian paths were added, making the city centre significantly mo
 
 Using technology in education allows students to access materials at any time, which increases the flexibility of their learning.
 
-Using technology in education allows students to access materials at any time, increaeing the flexibility of their learning.
-
+Using technology in education allows students to access materials at any time, increasing the flexibility of their learning.
+(不可以，有科技跟學生兩個主詞)
 
 ---
 
 ### **12. Task 2 Problem 句**
 
 Many young people spend excessive time on social media, which makes some companies decide to invest less in traditional advertising.
+
+Many young people spend excessive time on social media, which makes some companies decide to invest less in traditional advertising.
+
+(不可以，有年輕人跟公司兩個主詞)
 
 ---
 
