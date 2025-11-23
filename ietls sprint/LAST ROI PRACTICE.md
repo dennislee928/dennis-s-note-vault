@@ -118,10 +118,10 @@
      Much information about the new tax system is released recently.
 2. 近年的研究顯示，長時間使用手機會影響睡眠品質。  
     → recent research on smartphone use and sleep quality
-     Recent research on smartphone indicates that  usage and sleep quality
+     Recent research on smartphone indicates that smartphone usage will affect sleep quality.
 3. 專家給父母很多關於線上學習的建議。  
     → advice on online learning
-    
+     Much advice on online learning is giv
 4. 城市中的交通和空氣污染在過去十年間都有明顯惡化。  
     → traffic in the city / air pollution in the city / has worsened over the last decade
     
