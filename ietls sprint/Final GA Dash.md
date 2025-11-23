@@ -99,9 +99,9 @@
 5. 失業率上升，政府決定增加補助。
      Unemployment rate  increased. Hence, governments decided to increase fundings. 
 6. 城市北邊的工廠被拆除，這裡後來變成公園。
-     The 
+     The factory located in the north side of the city was demolished to make way for the new park.
 7. 線上課程更普及，但學生的專注力卻降低。
-    
+     While online courses are 
 8. 觀光收入下降，當地商店受到影響。
     
 9. 這家公司提高薪水，但仍然找不到足夠員工。
