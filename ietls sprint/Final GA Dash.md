@@ -107,14 +107,14 @@
 9. 這家公司提高薪水，但仍然找不到足夠員工。
      Although this company raised their payments, it still could not find sufficient employees.
 10. 城市新增了停車場，但綠地因此變少了。
-     Though a new parking lot was added to the city, green areas became less.
+     Since a new parking lot was added to the city, green areas became less.
 
 ---
 
 ## **B. fragment（不完整句）— 5 題**
 
 11. 因為建了新的公園，居住品質提高。
-    
+     Living quality was improved for the newly built
 12. 雖然工廠搬走了，交通仍然很擁塞。
     
 13. 雖然線上課程更方便，但仍需要面對面互動。
