@@ -43,7 +43,7 @@
      Many youth use social media for a long period. Therefore, it become more difficult for them to focus on preparing exams.
 6. 即使政府增加了在教育上的支出，課堂品質仍然沒有明顯改善，許多家長因此感到失望。  
     → 建議拆兩句：Although / Even though…，第二句用 **As a result / Consequently**。
-     Although governments increased the expenditure on education, 
+     Although governments increased the expenditure on education, instruction quality was still not improved significantly. As a result, many parents were disappoitted.
 
 ---
 
