@@ -43,10 +43,10 @@
     Bus usage decreased by 15%, causing probably more people commute via driving their own vehicles.
 10. 城市人口增加，這造成房租變貴。  
     （錯：rents ≠ population）
-     Population in urban areas increased, causing rents
+     Population in urban areas increased, causing house rents become more expensive.
 11. 景點遊客變多，這使當地餐廳增加了員工。  
     （錯：restaurants ≠ tourists）
-    
+    Number of tourist 
 12. 失業率下降，這鼓勵更多企業投資。  
     （錯：enterprises ≠ unemployment）
     
