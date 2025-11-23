@@ -62,10 +62,10 @@
      University enrollment percentage increased by 15%, from 2000 to 2015.
 3. **fell from A to B**  
     DVD 租借量在 2008–2018 年間從 6000 萬下降到 1500 萬。
-     DVD rentals decreased from 
+     DVD rentals decreased from 60 million in 2008 to 15 million in 2018.
 4. **dropped by X**  
     公車使用率在 2010–2020 年間從 50% 降到 35%（下降 15%）。
-    
+     Bus usage 
 5. **peaked at**  
     觀光收入在 2019 年達到 1200 億美元的高峰。
     
