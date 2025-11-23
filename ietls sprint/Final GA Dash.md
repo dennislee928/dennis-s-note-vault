@@ -107,7 +107,7 @@
 9. 這家公司提高薪水，但仍然找不到足夠員工。
      Although this company raised their payments, it still could not find sufficient employees.
 10. 城市新增了停車場，但綠地因此變少了。
-     A new parking 
+     Though a new parking lot was added to the city, green areas became less.
 
 ---
 
