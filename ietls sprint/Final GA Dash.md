@@ -97,9 +97,9 @@
 4. 公車使用率下降， 城市因此變得更壅塞。
      Bus  usage decreased, causing cities become more crowded.
 5. 失業率上升，政府決定增加補助。
-     Unemployment rate  increased.
+     Unemployment rate  increased. Hence, governments decided to increase fundings. 
 6. 城市北邊的工廠被拆除，這裡後來變成公園。
-    
+     The 
 7. 線上課程更普及，但學生的專注力卻降低。
     
 8. 觀光收入下降，當地商店受到影響。
