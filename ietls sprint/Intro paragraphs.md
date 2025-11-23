@@ -2,7 +2,8 @@
 
 Some people believe that schools should teach students financial management, while others think this should be learned from parents.  
 **To what extent do you agree or disagree?**
-It has long been debated whether financial management should be taught by parents or teachers in schools. Some people think that teachers in schools are able to instruct financial management more systematically. However, I firmly believe that students can learn financial management more 
+___
+It has long been debated whether financial management should be taught by parents or teachers in schools. Some people think that teachers in schools are able to instruct financial management more systematically. However, I firmly believe that students can learn financial management more efficiently and deeply for following reasons.
 
 ---
 
@@ -11,6 +12,8 @@ It has long been debated whether financial management should be taught by parent
 Some people think that advertisements aimed at children should be banned,  
 while others believe such advertising is essential for business.  
 **Discuss both views and give your opinion.**
+___
+It has long been debated whether children-oriented 
 
 ---
 
