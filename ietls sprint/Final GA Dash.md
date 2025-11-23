@@ -49,10 +49,10 @@
     Number of tourist visiting spots increased, causing local restaurants to hire more employees.
 12. 失業率下降，這鼓勵更多企業投資。  
     （錯：enterprises ≠ unemployment）
-	    The unemployment rate decreased, encouraging more enterpris
+	    The unemployment rate decreased, encouraging more enterprises to invest.
 13. 空氣品質提升，這讓政府決定減少工廠污染。  
     （錯：government decision ≠ air quality）
-    
+     The air quality was improved, making governments decided to reduce pol
 14. 書店變少，這使出版社被迫轉型。  
     （錯：publishers ≠ bookstores）
     
