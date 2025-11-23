@@ -189,7 +189,7 @@
 - increased significantly
     The number increased significantly, rising from 25% in 2000 to 48% in 2010, almost doubled.
 - rose sharply
-     The number rose subatantially,
+     The number rose substantially, climbing from  25% to 48% over the same period, almost doubled.
 
 ---
 
