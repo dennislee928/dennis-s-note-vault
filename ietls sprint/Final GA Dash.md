@@ -123,15 +123,15 @@
 	   Though online courses are more handy, physical interactions are still required.
 14. 因為道路拓寬了，車輛能更順暢行駛。
      Vehicles can move more smoothly since the roads were broaden.
-15. 雖然電動車使用量上升，但充電站仍然不足。
-Charging spots are still insufficient, though the number of electronic mobiles has been increasing.
+15. 雖然電動車使用量一直在上升，但充電站仍然不足。
+Charging spots are still insufficient, though the usage of electronic mobiles has been increasing.
 ___
 ## **which 高強度測驗 20 題（不含答案）**
 
 ### **1. Task 1 趨勢句**
 
 In 2015, smartphone usage reached 90%, which made it the most widely used device in the chart.
-
+Smartphone usage peaked 
 ---
 
 ### **2. Task 1 趨勢＋原因**
