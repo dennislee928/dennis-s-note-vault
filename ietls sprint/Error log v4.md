@@ -358,7 +358,7 @@ paper-based materials
 2. A process of producing milk powder.
      Overall, producing milk powder requires a series of stages from beginning to ending,  including quality inspection conducted by authorities.(這是老師給的模板，我有combine你的，只要檢查文法是否正確)
 3. A map of a city center being redeveloped into a pedestrian zone.
-     Overall , a compairsion beteewn these maps 
+     Overall , a comparison between these maps shows  a change from a more 
 
 ---
 
