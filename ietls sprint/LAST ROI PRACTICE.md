@@ -109,7 +109,8 @@
      He had completed the research on the birth rate in Japan.
      The information about nuclear fusion has been published.
      He gave me much advice on improving my workflows.
-     The progrew
+     The progress in producing honey-based products has  been revealed.
+     The data on the unusual err
 
 1. 政府最近發布了很多關於新稅制的資訊。  
     → information about the new tax system（用 much / a large amount of）
