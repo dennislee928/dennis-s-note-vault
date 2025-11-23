@@ -24,7 +24,7 @@
 7. 城市北邊的工廠被拆除，這塊土地後來被改建成住宅區。
       The factory located in the southern side of the city was demolished. This area was reconstructed into a residential area afterwards. 
 8. 新的步行街建成後，市中心變得對行人更加友善。
-     Downtown areas became more friendly for pedestrians after the new  
+     Downtown areas became more friendly for pedestrians after the new  pedestrian-friendly paths were built. 
 
 建議自己刻意用：
 
