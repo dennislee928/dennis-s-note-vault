@@ -25,10 +25,10 @@
 
 1. 手機使用率在 2018 年達到 85%，之後略微下降，但仍然是所有裝置中最高的。  
     → 要用：**peaked at + although / though**。
-    Cellphone useage peaked at 85%, though experienced a slight
+    Cellphone usage peaked at 85%, though experienced a slight decrease afterwards, it was still the highest figure among all devices.
 2. 網路使用率從 45% 上升到 95%，因此線上購物變得更普遍。  
     → 建議用兩句：主句 + **Therefore / As a result**。
-    
+     Internet usage  inc
 3. 公車使用率下降了 15%，這可能導致更多人選擇開車通勤，使城市交通更加壅塞。  
     → 可以：主句 + **which**（結果型），或主句 + as a result。
     
