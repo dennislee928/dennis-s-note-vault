@@ -49,10 +49,10 @@
      Bus usage decreased from 52% to 34% between 2010 and 2020.
 3. 大學入學率從 40% 上升到 55%（增加 15 個百分點），時間 2005–2015。  
     → 用：**increased by X**
-     
+     University enrollment rate  increased by 15% between 2005 and 2015.
 4. DVD 租借量在 2008–2018 年間從 60 百萬降到 15 百萬。  
     → 用：**dropped by X**（自己算出 X）
-    
+     DVD rents dropped by 
 5. 觀光收入在 2019 年達到 1200 億美元的高峰。  
     → 用：**peaked at**
     
