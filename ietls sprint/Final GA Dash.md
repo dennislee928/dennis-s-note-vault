@@ -114,9 +114,9 @@
 ## **B. fragment（不完整句）— 5 題**
 
 11. 因為建了新的公園，居住品質提高。
-     Living quality was improved for the newly built
-12. 雖然工廠搬走了，交通仍然很擁塞。
-    
+     Living quality was improved for the newly built park.
+12. 雖然工廠已經搬走了，交通仍然很擁塞。
+     Traffic is still horrible even though the factory 
 13. 雖然線上課程更方便，但仍需要面對面互動。
     
 14. 因為道路拓寬了，車輛能更順暢行駛。
