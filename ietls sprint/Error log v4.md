@@ -216,7 +216,7 @@ fluctuate = 起伏，不帶方向
 
 1. peaked at（4 題）
 
-     The number of printed books peaked at 75% in 1990, followed by a substan
+     The number of printed books peaked at 75% in 1990, followed by a substantial decrease in following decades.
 2. fell from A to B（4 題）
     
 3. dropped by X（4 題）
