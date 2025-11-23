@@ -40,10 +40,10 @@
 
 9. 公車使用率下降 15%，這可能讓更多人改開車上班。  
     （錯：開車的人 ≠ bus usage）
-    Bus usage decreased by 15%, causing probably more people commute 
+    Bus usage decreased by 15%, causing probably more people commute via driving their own vehicles.
 10. 城市人口增加，這造成房租變貴。  
     （錯：rents ≠ population）
-    
+     Population in urban areas increased, causing rents
 11. 景點遊客變多，這使當地餐廳增加了員工。  
     （錯：restaurants ≠ tourists）
     
