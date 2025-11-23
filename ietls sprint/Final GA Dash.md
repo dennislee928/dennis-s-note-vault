@@ -308,4 +308,4 @@ Changes in 6 types of annual expenditure by local authorities in Someland in 198
 
 It is clear that the percentage of transportation expenditure grew most significantly by 6%. It dropped from 16%  in 1980 to just 6% in 1990, followed by a sharply increase and peaked at 22% in 2000. Likely, the percentage of environmental services increased steadily from 4% in 1980 to 9% in 2000. By contrast,  the percentage of K-12 education as well as the percentage of higher education expenditure both decreased by 7%,
 
-In additionof annual expenditure on higher education was always the highest one over the period.It increased from 35% in 1980 to 45% in 1990.And even though it experienced a 5% decline afterwards, it was still the highest figure in 2000.
+In addition,  annual expenditure on higher education was always the highest one over the period.It was even more that twice 
