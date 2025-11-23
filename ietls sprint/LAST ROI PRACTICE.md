@@ -30,10 +30,11 @@
     → 建議用兩句：主句 + **Therefore / As a result**。
      Internet usage  increased from 45% to 95%. As a result, online shopping became more widely used.
      Internet usage  increased from 45% to 95%, which made online shopping became more widely used.
+      Internet usage  increased from 45% to 95%, causing online shopping to became more widely used.
      
 3. 公車使用率下降了 15%，這可能導致更多人選擇開車通勤，使城市交通更加壅塞。  
     → 可以：主句 + **which**（結果型），或主句 + as a result。
-    
+     Bus usage dropped by 15%, which could cause more people to drive their own cars. As a result, 
 4. 雖然太陽能的比例波動很大，但在最後一年它成為最常被使用的能源。  
     → 用 **Although / While** 開頭，後面用 became the most widely used source。
     
