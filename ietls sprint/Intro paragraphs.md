@@ -32,6 +32,9 @@ It has long been debated whether online courses or physical classes are more eff
 Many companies now allow employees to work remotely.  
 **Discuss the advantages and disadvantages of this development.**
 
+It has long been debated whether remote working brings more benefits or causes more problems.
+
+
 ---
 
 # **🔴 題目 4 — Cause & Effect（原因 + 影響）**
