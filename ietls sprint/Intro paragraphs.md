@@ -1,0 +1,47 @@
+# **🌐 題目 1 — Type 1（直接選邊站）**
+
+Some people believe that schools should teach students financial management, while others think this should be learned from parents.  
+**To what extent do you agree or disagree?**
+
+---
+
+# **🟣 題目 2 — Type 2（雙方並列 + 你要選一邊）**
+
+Some people think that advertisements aimed at children should be banned,  
+while others believe such advertising is essential for business.  
+**Discuss both views and give your opinion.**
+
+---
+
+# **🟠 題目 3A — Compare & Contrast（比較兩種選項）**
+
+Some people prefer online learning, while others argue that in-person classes are more effective.  
+**Compare the advantages of both methods and give your opinion.**
+
+---
+
+# **🟡 題目 3B — Advantages & Disadvantages（利弊題）**
+
+Many companies now allow employees to work remotely.  
+**Discuss the advantages and disadvantages of this development.**
+
+---
+
+# **🔴 題目 4 — Cause & Effect（原因 + 影響）**
+
+In many countries, fewer young people choose to become school teachers.  
+**Why is this happening, and what effects does this trend have on society?**
+
+---
+
+# **🟢 題目 5 — Problem & Solution（問題 + 解決）**
+
+Many cities are facing serious water shortages.  
+**What are the problems caused by this issue, and what measures can be taken to solve it?**
+
+---
+
+# **🔵 題目 6 — Bonus（你最需要的「教育＋科技」題）**
+
+Some people think that using technology in the classroom improves learning, while others believe it creates distraction.  
+**Discuss both views and give your opinion.**
