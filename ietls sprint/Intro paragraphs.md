@@ -43,7 +43,7 @@ In many countries, fewer young people choose to become school teachers.
 **Why is this happening, and what effects does this trend have on society?**
 
 It has long been debated why fewer youth choose to become school teachers in many countries.
-Some people think it's difficult to find what causes youth's resist to be a teacher. Indeed, there are reasons explaining this phenomenon, and there are also negative consequences 
+Some people think it's difficult to find what causes youth's resist to be a teacher. Indeed, there are reasons explaining this phenomenon, and there are also negative consequences that can be obviously observed.
 
 ---
 
@@ -51,6 +51,10 @@ Some people think it's difficult to find what causes youth's resist to be a teac
 
 Many cities are facing serious water shortages.  
 **What are the problems caused by this issue, and what measures can be taken to solve it?**
+
+It has long been debated what fewer youth choose to become school teachers in many countries.
+Some people think it's difficult to find what causes youth's resist to be a teacher. Indeed, there are reasons explaining this phenomenon, and there are also negative consequences that can be obviously observed.
+
 
 ---
 
