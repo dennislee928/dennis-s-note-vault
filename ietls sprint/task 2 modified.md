@@ -18,4 +18,4 @@ It has long been discussed that growing number of students are stressed and anxi
 > In many big cities, the cost of housing has risen so high that many people can no longer afford to buy or even rent a suitable home.  
 > **What problems does this create, and what solutions could be proposed?**
 
-It has long been discussed that  housing prices have reached a peak that is so  that many people can no longer afford to buy or even rent a suitable home.
+It has long been discussed that  housing prices have reached a peak that is so unaffordable that many people can no longer afford to buy or even rent a suitable home.
