@@ -19,6 +19,19 @@
 **題目 1（教育＋科技，Compare）**  
 Some people prefer online learning, while others believe that traditional classroom teaching is more effective.  
 **Compare the advantages of both methods and give your own opinion.**
+___
+
+It has long been debated .Although the similarities may be worth emphasizing, their differences can not 
+
+
+
+
+
+
+
+
+
+
 
 → 用 **Type 3A：Compare & Contrast intro**
 
