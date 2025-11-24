@@ -88,10 +88,10 @@
      Recent research on online study has positive outcomes, which made schools to be more willing to invest in digital equipment.
 3. 專家給父母很多關於兒童網路使用的建議，幫助他們設定適當規範。  
     → 用：**advice on… + which**
-     Advice on children internet usage  was provided to parents by 
+     Advice on children internet usage  was provided to parents by experts, which helped them to set up appropriate regulation.
 4. 公司在自動化設備上的投資有了明顯進展，這提升了生產效率。  
     → 用：**progress in / equipment for… + which**
-    
+     Obvious progress in auto
 5. 城市中心的交通在尖峰時段非常壅塞，這增加了通勤者的壓力。  
     → 用：**traffic in the city centre… + which**
     
