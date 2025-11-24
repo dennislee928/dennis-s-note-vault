@@ -10,4 +10,4 @@ t1
 t2
 t3
 ___ 
-The  age of the population of Iceland from 1990 to 2020 is presented in the 
+The comparison of the age of Iceland from 1990 to 2020 is presented in the 
