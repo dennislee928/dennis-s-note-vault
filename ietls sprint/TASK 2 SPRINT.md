@@ -57,7 +57,7 @@ In many countries, more and more people are spending several hours a day on soci
 
 
 
-It has long been debated that more and more people are spending time onsocial media platforms.  
+It has long been debated that more and more people are spending time on social media. Some people may think that it is difficult to 
 
 
 
