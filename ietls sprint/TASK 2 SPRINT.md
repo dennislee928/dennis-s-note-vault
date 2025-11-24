@@ -26,7 +26,7 @@ ___
 It has long been debated whether online learning or physical instruction is more effective . Although the positive outcomes of both these two learning methods are often highlighted, their differences are equally important. Indeed,  varying advantages can be found between these two methods and will be discuessed in the following paragraphs.
 
 
-It has long been debated whether online learning or physical instruction is more effective . Although the positive outcomes of both these two learning methods can be both critical, I firmly believe that online learning . Indeed,  varying advantages can be found between these two methods and will be discuessed in the following paragraphs.
+It has long been debated whether online learning or physical instruction is more effective . Although the positive outcomes of both these two learning methods can be both critical, I firmly believe that online learning is more efficient. Indeed,  varying advantages can be found between these two methods and will be discuessed in the following paragraphs.
 
 
 -> 你給的type 3A題目會不會太難了
