@@ -102,7 +102,7 @@ It has long been discussed that whether information in traditional format or in 
 > In recent decades, the proportion of overweight and obese people has increased significantly in many parts of the world.  
 > **What are the main causes of this trend and what impact does it have on public health?**
 
-It has long been discussed that population that are overweight and obese  has increased substantially in global.  Indeed, there are varying reasons caused this trend, and negative consequences may be caused by it. Both reasons cau
+It has long been discussed that population that are overweight and obese  has increased substantially in global.  Indeed, there are varying reasons caused this trend, and negative consequences may be caused by it. Both reasons cause by this trend and its related consequences will be presented in the fo
 
 
 ---
