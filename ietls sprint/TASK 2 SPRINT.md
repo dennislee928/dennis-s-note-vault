@@ -21,9 +21,9 @@ Some people prefer online learning, while others believe that traditional classr
 **Compare the advantages of both methods and give your own opinion.**
 ___
 
-It has long been debated... . Although the similarities may be worth emphasizing, their differences can not be overlooked, Indeed, both commanalities and differences can be found  between ...
 
-It has long been debated whether online learning or physical instruction is more effective . Although the positive outcomes of both these two learning methods are often highlighted, their differences are equally important. Indeed, advantages can be found between these two methods and will be discuessed in following paragraphs
+
+It has long been debated whether online learning or physical instruction is more effective . Although the positive outcomes of both these two learning methods are often highlighted, their differences are equally important. Indeed, advantages can be found between these two methods and will be discuessed in the following paragraphs.
 
 
 
