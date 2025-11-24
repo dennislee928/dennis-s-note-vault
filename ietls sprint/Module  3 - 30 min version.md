@@ -221,22 +221,7 @@ Much advice about investment and asset management is given to young people by ex
 
 在公共運輸上的進展，例如更準時的班次和新的路線，減少了城市中的交通壅塞。
 
-Progress in public transportation, such as new routes and more on-time shuttles, can reduce congestion
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Progress in public transportation, such as new routes and more on-time shuttles, can reduce traffic congestion in urban areas.
 
 
 
@@ -252,6 +237,17 @@ Progress in public transportation, such as new routes and more on-time shuttles,
 ### B-5（犯罪數據）
 
 最新的犯罪數據顯示，某些地區的暴力犯罪有明顯下降，這顯示社區治安計畫是有效的。
+
+
+
+
+
+
+
+
+
+
+
 
 > 限制：
 > 
