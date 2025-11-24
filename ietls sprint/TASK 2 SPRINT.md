@@ -91,7 +91,7 @@ It has long been debated that more and more people are spending time on social m
 Plastic waste has become a serious environmental issue in many parts of the world.  
 **What problems does plastic pollution cause, and what measures can be taken to reduce it?**
 ___
-It has long been discussed that  . Some people may think that plastic waste is a serious environmental issue globally. Indeed, there are several reasons explaining why plastic waste can be a serious environmental issue, and there are also measures that can be taken to address this issues.
+It has long been discussed that plastic waste has become a serious environmental issue globally. Indeed, there are several reasons explaining why plastic waste can be a serious environmental issue, and there are also measures that can be taken to address this issues.
 Both reasons and measures will be discussed in the following paragraphs.
 
 
