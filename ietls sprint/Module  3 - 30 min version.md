@@ -157,6 +157,11 @@ New medical equipment was purchased for the local hospitals, which improved heal
 
 政府提供了大量關於健康飲食的資訊，這讓更多人開始檢查自己的飲食習慣。
 
+Much information about healthy eating is provided by the govrenments, which makes more people start to inspect their own eating habits.
+
+
+
+
 > 限制：
 > 
 > - 主語：Information about healthy eating
@@ -169,6 +174,21 @@ New medical equipment was purchased for the local hospitals, which improved heal
 ### B-2（遠端工作研究）
 
 最近關於遠端工作效率的研究顯示，多數員工在家更容易維持工作與生活的平衡。
+
+Recent research on efficiency of remote working 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 > 限制：
 > 
