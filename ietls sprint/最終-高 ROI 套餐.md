@@ -21,10 +21,10 @@
 
 1. 很多學校增加了小組討論與專題報告，因此學生在課堂上參與得更積極。  
     → 建議：第一句描述「教學方式改變」，第二句用 **As a result**。
-     Many schools increased group discussions and project reports
+     Many schools increased group discussions and project reports. Therefore, students became more active during classes.
 2. 越來越多家長投資課後輔導，所以學生在升學考試中競爭更加激烈。  
     → 建議：第二句用 **Therefore** 或 **Consequently**。
-    
+     More parents are investing in after-school consulting. As a resul
 
 ---
 
