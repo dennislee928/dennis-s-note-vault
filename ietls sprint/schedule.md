@@ -1,0 +1,265 @@
+### 10:15–11:00（45 分）
+
+### 模組 2：Task 1 動詞＋介系詞 + 數字安全版
+
+**目標：** 確保明天 Task 1 用的動詞全部「安全且自然」。
+
+做法：
+
+1. 打開你之前那組 **Task 1 verbs 練習**（increase / fall / drop / peak / reach a low of / remain stable / fluctuate）
+    
+2. 自己出 **12 個簡單情境**（不用圖表，隨口編）：
+    
+    - 4 題：rose from A to B / fell from A to B
+        
+    - 4 題：increased by X / dropped by X（X 用「絕對差值」）
+        
+    - 2 題：peaked at
+        
+    - 2 題：reached a low of / remained stable at around
+        
+3. 每題只寫 **1 句**，但要檢查：
+    
+    - 時間＋年份位置（in 2005 / between 2000 and 2010）
+        
+    - 介系詞：from…to… / by X / at / of / around
+        
+    - 不要混寫：同一句不要既用「dropped by」又再說一次「falling from A to B」除非你非常穩。
+        
+
+這一段做完，你的 Task 1 動詞就接近「自動安全模式」。
+
+---
+
+### 🕚 11:00–11:30（30 分）
+
+### 模組 3：which + 不可數＋自然搭配（微調）
+
+**目標：** 專門修掉你還會犯的小問題：  
+made people to know / increase / press vs pressure / children internet usage…
+
+做法：
+
+1. 從昨晚 Part C（information / research / advice / progress / traffic / medical technology）裡挑 **6 句**：
+    
+    - 用我給你的建議版，**再自己重寫一次**（不照抄，換一點詞）
+        
+2. 再自己造 **4 句新句子**，限定：
+    
+    - 主語一定是：information / research / advice / progress / traffic
+        
+    - 結尾一定是：`, which + 單一動詞片語`
+        
+        - which **has helped…**
+            
+        - which **has increased…**
+            
+        - which **shows… / indicates…**
+            
+
+檢查重點：
+
+- which 後面動詞一致（has / increases）
+    
+- 主語沒換（不能從「traffic」突然跳到「commuters」）
+    
+
+---
+
+### 🕦 11:30–13:00（90 分）
+
+**午餐 + 完全休息**
+
+- 不建議再看英文。
+    
+- 可以散步、放空，讓早上練的東西沉澱。
+    
+
+---
+
+### 🕐 13:00–14:00（60 分）
+
+### 模組 4：Task 1 Mini 模擬（但只寫「安全語言」）
+
+**目標：** 模擬考場流程，但不追求完美題型，只看「錯誤種類」。
+
+步驟：
+
+1. 找一題你 **看得懂的圖**（建議：line 或 bar 單圖，不要 combine pie）。
+    
+2. 20 分鐘內完成：
+    
+    - Overview 1 段
+        
+    - 2 個 body 段（Group A / Group B）
+        
+3. 40 分鐘專門做「錯誤掃描」：
+    
+    - 只找這幾類：
+        
+        - 句界 / run-on / fragment
+            
+        - 動詞＋介系詞
+            
+        - which + 結果句
+            
+        - 不可數
+            
+
+把錯句抄到 **Error_Log_Final_2025-11-24.md**（可以直接用你已有的 Error Log）  
+旁邊寫上「原因 + 正解」，這些會變成你明早的重點複習素材。
+
+---
+
+### 🕑 14:00–14:45（45 分）
+
+### 模組 5：Task 2 Intro（只練你不熟的 3 種）
+
+**重點：Type 3A / 4 / 5**
+
+做法：
+
+1. 選 **3 個題目**（建議：教育 / 科技 / 環境 or 健康 各一題）。
+    
+2. 對每題：
+    
+    - 用「指定類型」寫 intro 1 段：
+        
+        - 比較題 → Type 3A
+            
+        - 原因＋影響 → Type 4
+            
+        - 問題＋解決 → Type 5
+            
+    - 寫完檢查：
+        
+        - 有沒有跑錯題型（Compare 不要寫成 Problem）
+            
+        - 有沒有「It has long been discussed…」之後就失控 run-on
+            
+
+這一段的目標是：明天遇到陌生題目，你至少知道「哪一個 intro 模板」可以套。
+
+---
+
+### 🕒 14:45–15:15（30 分）
+
+**短休息**
+
+- 起來走一圈，喝水，讓眼睛休息。
+    
+
+---
+
+### 🕞 15:15–16:00（45 分）
+
+### 模組 6：Task 2 萬用 body skeleton（高頻三大主題）
+
+**目標：** 準備你剛剛問的「隨手就能寫」body 2–3 套。
+
+做法：
+
+- 主題限定：教育 / 科技 / 健康
+    
+- 每一主題：
+    
+    - 寫 **2 個 body topic sentence + 1–2 句解釋**
+        
+        - 不一定要例子，只要邏輯清楚
+            
+    - 控制在 3 句左右 / body skeleton
+        
+
+寫完之後，你明天遇到：
+
+- 教育＋科技 → 有現成段落可以改
+    
+- 健康＋政府 → 可以用健康 skeleton 加一點政府資源就能寫
+    
+
+---
+
+### 🕓 16:00–16:30（30 分）
+
+### 模組 7：Error Log「終極版」整理（不再寫，只整理）
+
+**目標：** 把「明天早上要看的錯誤類型」整理到一張清單。
+
+步驟：
+
+1. 打開你這幾天的 Error Log（含昨晚＋今天 Task 1 mini 模擬）。
+    
+2. 挑出每類 **2 句代表：**
+    
+    - Run-on / Fragment
+        
+    - 動詞模板誤用（peak to / dropped slightly by 40% 等）
+        
+    - 不可數名詞
+        
+    - which 非法用法
+        
+    - 句子太長 → 改成兩句
+        
+3. 整理成 `IELTS_Writing_Error_Log_KeyPatterns_2025-11-24.md`  
+    明天早上只看這張。
+    
+
+這一段不需要高專注力，但非常關鍵，因為它決定你明天一進考場的「錯誤警報」。
+
+---
+
+### 🕟 16:30–17:00（30 分）
+
+### 模組 8：很短的「壓力 mini test」（只看反應）
+
+- 不寫完整作文，只做：
+    
+    - 10 分鐘：Task 1 看題 → 用條列寫出你會用哪幾個動詞模板 / 哪兩個 group
+        
+    - 10 分鐘：Task 2 看題 → 寫出 intro 類型 + 每段 body 主題（只寫英文 notes）
+        
+    - 10 分鐘：隨機挑 3 個句子，把它們寫成完整句，檢查句界
+        
+
+這一段主要是檢查：**在有限時間內，你腦中浮出的句子還會不會犯一樣的錯**。
+
+---
+
+### 🕔 17:00 之後
+
+建議進入「降載」階段：
+
+- 可以吃飯、運動、散步。
+    
+- 不再寫長文，不開新題型。
+    
+
+---
+
+### 🕢 19:30–20:00（30 分）
+
+### 模組 9：純閱讀複習（不寫）
+
+只看三個檔案（或印成紙）：
+
+1. `IELTS_Writing_Final_Bible_2025-11-24.md`
+    
+    - Task 1 overview 範本＋動詞＋不可數表
+        
+    - Task 2 intro 模板（尤其 Type 1 / 2 / 3A / 4 / 5）
+        
+2. `IELTS_Writing_Checklist_A4_Exam_Day.md`
+    
+    - 考前 10 分鐘檢查點：  
+        Task 1 有 overview？  
+        動詞＋介系詞至少 2 個用對？  
+        Task 2 每段一個主題？  
+        `. 後一定要空格？equipment / information 沒加 s？`
+        
+3. `IELTS_Writing_Error_Log_KeyPatterns_2025-11-24.md`
+    
+    - 只看，每類錯誤看那 2 句代表：「明天不可以再犯這種」。
+        
+
+這 30 分鐘只讀、不寫，讓大腦在相對低壓環境下「固化 pattern」。
