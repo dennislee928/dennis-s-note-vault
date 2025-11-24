@@ -33,7 +33,7 @@ t2 increased most in winter
 ___
 Income of 4 restaurants in last year is presented in the line chart. Overall, most income increased and grew more significantly during winter.
 
-It is clear that the income of Evening Paradise grew the most. It increased by 145,000 dollars over the year and peaked at around 190,000 dollars in last December, which was the highest figure among all restaurants.  Likely, the income of Delicacy increased from approximately 25,000 dollars in last January  to 120,000 dollars  in last December , while the income of  Grand Fiesta  also climbed from  100,000 dollars to just below 140,000  dollars over the same period. In addition, income of all these three restaurants increased most sharply 
+It is clear that the income of Evening Paradise grew the most. It increased by 145,000 dollars over the year and peaked at around 190,000 dollars in last December, which was the highest figure among all restaurants.  Likely, the income of Delicacy increased from approximately 25,000 dollars in last January  to 120,000 dollars  in last December , while the income of  Grand Fiesta  also climbed from  100,000 dollars to just below 140,000  dollars over the same period. In addition, income of all these three restaurants increased most sharply from last November to last December.
 
 In contrast, the income of Spicy Fortune decreased. It fluctuated between 170,000 dollars and 120,000 dollars before October, followed by a sharp decline. It reached a low of  around 50,000 dollars in last December.
 
