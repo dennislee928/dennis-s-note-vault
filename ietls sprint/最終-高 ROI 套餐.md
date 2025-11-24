@@ -103,15 +103,17 @@
         - 或 `…, making it easier for students to…`
             
 2. 大學圖書館延長開放時間，讓學生能在晚上也找到安靜的自習空間。
-     The university library extend its opening hour, making it easier for students to find quiet sel-study place at night.
- The university library extend its opening hour
+     The university library extend its opening hour, making it easier for students to find quiet self-study place at night.
+     
+     The university library extend its opening hour. Consequently, students can find quiet self-study place at night more easily.
+ 
 
 ---
 
 ### B-2（環境 / 公共建設）
 
 3. 城市政府擴大公共運輸系統，減少了居民對私家車的依賴。
-    
+     The city government expanded the 
 4. 河岸旁建造了新的步道與綠地，使當地成為居民週末休閒的熱門地點。
     
 
