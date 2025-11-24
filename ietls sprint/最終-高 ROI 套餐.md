@@ -115,7 +115,7 @@
 3. 城市政府擴大公共運輸系統，減少了居民對私家車的依賴。
      The city government expanded  public transportation systems, which decreased residents dependecy on private cars.
 4. 河岸旁建造了新的步道與綠地，使當地成為居民週末休閒的熱門地點。
-     New walking paths and gre
+     New walking paths and green areas were built near the river, making it a popular spot for local residents to  
 
 ---
 
