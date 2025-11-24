@@ -31,3 +31,4 @@
 t1 most income increased
 t2 increased most in winter
 ___
+Income 
