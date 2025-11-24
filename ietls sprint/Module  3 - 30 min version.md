@@ -99,7 +99,7 @@ Traffic in big cities became heavier in recent years, which increased the pressu
 
 ### A-5（環境政策 ＋ 進展）
 
-The progresses in environmental technology is impressive, which show that governments are spending money in a right way.
+The progresses in environmental technology is impressive, which shows that governments are spending money in a right way.
 
 > 任務：
 > 
