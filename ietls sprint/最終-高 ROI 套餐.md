@@ -66,7 +66,7 @@
 
 ## 🔹模組 1：句界 + 結果連接詞（高 ROI 套餐 2）
 
--> 為了
+-> 為了確保效率，",WHICH"我只會用來作補充說明
 
 **B 組：同一主語 + 結果（which / making / leading to）— 10 題**
 
@@ -103,7 +103,7 @@
         - 或 `…, making it easier for students to…`
             
 2. 大學圖書館延長開放時間，讓學生能在晚上也找到安靜的自習空間。
-     
+     The university library extend its opening hour, 
 
 ---
 
