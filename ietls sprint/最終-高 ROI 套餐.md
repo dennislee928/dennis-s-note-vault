@@ -49,7 +49,7 @@
 ### A-4（健康 / 生活型態）
 
 7. 很多人改為久坐的辦公室工作，所以肥胖與心血管疾病的比例不斷上升。
-     
+     Many people change their way of working to working in office with long-time sitting
 8. 政府提供免費的健康檢查，因此更多人能及早發現潛在疾病。
     
 
