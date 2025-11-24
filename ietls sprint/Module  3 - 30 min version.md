@@ -238,7 +238,7 @@ Progress in public transportation, such as new routes and more on-time shuttles,
 
 最新的犯罪數據顯示，某些地區的暴力犯罪有明顯下降，這顯示社區治安計畫是有效的。
 
-Recent data on crime indicates that violent crimes decreased significantly in some regions, which shows that 
+Recent data on crime indicates that violent crimes decreased significantly in some regions, which shows that community safety plans are effective.
 
 
 
@@ -261,6 +261,19 @@ Recent data on crime indicates that violent crimes decreased significantly in so
 ### B-6（旅遊設備 / 觀光基礎建設）
 
 新的觀光相關設備與設施，例如資訊中心與公共指示牌，讓外國遊客更容易在城市中移動。
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 > 限制：
 > 
