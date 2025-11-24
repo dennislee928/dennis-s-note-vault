@@ -103,7 +103,8 @@
         - 或 `…, making it easier for students to…`
             
 2. 大學圖書館延長開放時間，讓學生能在晚上也找到安靜的自習空間。
-     The university library extend its opening hour, 
+     The university library extend its opening hour, making it easier for students to find quiet sel-study place at night.
+ The university library extend its opening hour
 
 ---
 
