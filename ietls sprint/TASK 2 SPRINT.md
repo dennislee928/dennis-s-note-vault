@@ -57,7 +57,7 @@ In many countries, more and more people are spending several hours a day on soci
 
 
 
-It has long been debated that more and more people are spending time on social media. Some people may think that it is difficult to find what causes this phenomenon. Indeed, there are some reasons explaining why people spend  a great amount of time on social media, and there are negative consequences caused by this phenomenon. Both reasons and consequences will be discuss
+It has long been debated that more and more people are spending time on social media. Some people may think that it is difficult to find what causes this phenomenon. Indeed, there are some reasons explaining why people spend  a great amount of time on social media, and there are negative consequences caused by this phenomenon. Both reasons and consequences will be discussed in  the following paragraphs.
 
 
 
@@ -90,6 +90,22 @@ It has long been debated that more and more people are spending time on social m
 **題目 3（環境，Problem & Solution）**  
 Plastic waste has become a serious environmental issue in many parts of the world.  
 **What problems does plastic pollution cause, and what measures can be taken to reduce it?**
+
+It... .Some people may think
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 → 用 **Type 5：Problem & Solution intro**
 
