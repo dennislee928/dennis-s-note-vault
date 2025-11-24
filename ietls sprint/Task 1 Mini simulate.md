@@ -29,5 +29,5 @@
 ![[Pasted image 20251124133821.png]]
 
 t1 most income increased
-t2 in
+t2 increased most in winter
 ___
