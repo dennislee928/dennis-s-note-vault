@@ -10,3 +10,9 @@
 
 > In some societies, a growing number of students are experiencing high levels of stress and anxiety related to their studies.  
 > **What factors have led to this situation, and how does it affect young people and their families?**
+
+
+### 都市：住房負擔不起
+
+> In many big cities, the cost of housing has risen so high that many people can no longer afford to buy or even rent a suitable home.  
+> **What problems does this create, and what solutions could be proposed?**
