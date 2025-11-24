@@ -24,14 +24,14 @@
      Many schools increased group discussions and project reports. Therefore, students became more active during classes.
 2. 越來越多家長投資課後輔導，所以學生在升學考試中競爭更加激烈。  
     → 建議：第二句用 **Therefore** 或 **Consequently**。
-     More parents are investing in after-school consulting. As a result, academic exam copmpetition becomes more intensive for students.
+     More parents are investing in after-school consulting. As a result, academic exams become more intensive for students.
 
 ---
 
 ### A-2（科技 / 社群媒體）
 
 3. 許多年輕人花大量時間滑社群媒體，因此他們睡眠時間明顯縮短。
-    
+     Many young people spendgreat amount of time on browsing social media. Hence, Their 
 4. 公司導入遠端協作工具，因此員工即使在不同城市也能一起完成專案。
     
 
