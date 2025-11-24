@@ -25,3 +25,9 @@
         - which + 結果句
             
         - 不可數
+          
+![[Pasted image 20251124133821.png]]
+
+t1 most income increased
+t2 in
+___
