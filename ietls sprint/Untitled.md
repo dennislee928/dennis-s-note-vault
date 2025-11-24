@@ -190,4 +190,7 @@ It has long been discussed that population that are overweight and obese  has in
 
 It has long been seriously discussed that  false information and fake news are widely spreaded through the internet. Indeed there are varying problems caused by this phenomenon, and some measures can be taken to address them. Both problems caused by this trend and measures to solve these issues will be discussed in the following paragraphs.
 
-### bonus ad
+### bonus advantages/disadvantages
+Many people still prefer reading printed books,  
+> while others think that e-books and digital reading devices are more convenient.  
+> **Compare the advantages of both formats and state which you prefer.**
