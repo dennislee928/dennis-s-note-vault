@@ -14,4 +14,4 @@ The comparison of the age of Iceland population from 1990 to 2020 is presented i
 
 It is clear that  the percentage of group aging from 15 to 24 years substantially dropped by around 15% during these 2 decades . Likely, the percentage of group aging from 0 to 14 years decreased steadily from about 25% in 1990 to just below 20% in 2020 , while  the percentage of group aging from 55 to  64 years old decreased from about 5% over the same period.
 
-By contrast, middle aged population(aging from 25 to 54 years old), was the majority over the period. In addition, it climbed steadily from just over 30% to nearly 50%. 
+By contrast, middle aged population(aging from 25 to 54 years old), was the majority over the period. In addition, it climbed steadily from just over 30% to nearly 50% during these 2 decades. While 
