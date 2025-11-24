@@ -131,7 +131,7 @@
 ### B-4（社會 / 犯罪）
 
 7. 市政府在犯罪率較高的社區增加巡邏警力，讓居民在夜間感到更安全。
-     The city government
+     The city government increase police forces in communites with higher crime percentage, making residents fele safer
 8. 監視系統被安裝在更多公共場所，使潛在的犯罪行為更容易被偵測。
     
 
