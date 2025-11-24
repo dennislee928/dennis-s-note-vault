@@ -81,7 +81,7 @@ Experts gave much advice on how parents can guide children’s Internet use, whi
 
 ### A-4（城市交通 ＋ 壓力）
 
-Traffic in big cities became heavier in recent years, which increase the press of commuters during peak hours.
+Traffic in big cities became heavier in recent years, which increased the pressure of commuters during peak hours.
 
 
 
