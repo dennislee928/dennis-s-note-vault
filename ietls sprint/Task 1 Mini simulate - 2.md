@@ -5,3 +5,9 @@ The graph gives information about the age of the population of Iceland between 1
 Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
 ___
 ![[Pasted image 20251124141223.png]]
+
+t1
+t2
+t3
+___ 
+The age of the population of Iceland F 1990 and 2020.
