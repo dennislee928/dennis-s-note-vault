@@ -33,4 +33,4 @@ t2 increased most in winter
 ___
 Income of 4 restaurants in last year is presented in the line chart. Overall, most income increased and grew significantly during winter.
 
-It is clear that income of Delicay, Eveninf Paradise, and Grand Fiesta
+It is clear that income of Eveninf Paradise, and Grand FiestaDelicay, 
