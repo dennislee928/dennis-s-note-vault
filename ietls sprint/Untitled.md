@@ -189,3 +189,5 @@ It has long been discussed that population that are overweight and obese  has in
 > **What problems are caused by online misinformation, and what can individuals and governments do to solve them?**
 
 It has long been seriously discussed that  false information and fake news are widely spreaded through the internet. Indeed there are varying problems caused by this phenomenon, and some measures can be taken to address them. Both problems caused by this trend and measures to solve these issues will be discussed in the following paragraphs.
+
+### bonus ad
