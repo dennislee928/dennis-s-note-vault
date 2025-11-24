@@ -82,10 +82,10 @@
 
 1. 政府提供了許多關於新醫療政策的資訊，使得民眾更了解自己的權利。  
     → 要用：**information about… + which**
-    Information about the the medical policy was provided by governments, which made people know their 
-2. 最近關於線上學習效果的研究，讓學校更願意投資數位設備。  
+    Information about the the medical policy was provided by governments, which made people to know their rights better.
+2. 最近關於線上學習效果的研究有正面成果，讓學校更願意投資數位設備。  
     → 用：**recent research on… + which**
-    
+     Recent research on online study
 3. 專家給父母很多關於兒童網路使用的建議，幫助他們設定適當規範。  
     → 用：**advice on… + which**
     
