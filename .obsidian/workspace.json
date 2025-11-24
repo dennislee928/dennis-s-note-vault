@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "cc5d6c9c5d28efff",
+    "id": "92a1582a51c89834",
     "type": "split",
     "children": [
       {
-        "id": "07387270c7d35412",
+        "id": "2bead721c660a882",
         "type": "tabs",
         "children": [
           {
-            "id": "5c0ef3945d8a8b54",
+            "id": "0f0cfd3849ef6ad2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ietls sprint/最終-高 ROI 套餐.md",
+                "file": "ietls sprint/Part A – 句界 & 結果句（8 題）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "最終-高 ROI 套餐"
+              "title": "Part A – 句界 & 結果句（8 題）"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "08aee57c2d06d46f",
+    "id": "a734d47e86e1eae1",
     "type": "split",
     "children": [
       {
-        "id": "091769e9ebf0ca1d",
+        "id": "11b8f7c1345f3dc0",
         "type": "tabs",
         "children": [
           {
-            "id": "620f8851b9576f0c",
+            "id": "b94c08ba57767b15",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "4d72f622a444209f",
+            "id": "f61c422cf1ab97aa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "9bf4ca039c90086f",
+            "id": "a3e112e2813e0044",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +81,15 @@
     "width": 300
   },
   "right": {
-    "id": "496c235739360eb2",
+    "id": "0f46910264cde0cb",
     "type": "split",
     "children": [
       {
-        "id": "da641183a7110507",
+        "id": "fe9abf48045c7cf2",
         "type": "tabs",
         "children": [
           {
-            "id": "4608e322e9348fab",
+            "id": "755ce04b6c5a4c0e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -107,7 +107,7 @@
             }
           },
           {
-            "id": "b9058a0995a2f421",
+            "id": "1aba43b9671b0d2d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "83d4ab9e507a2c0c",
+            "id": "5dde00d7ada79577",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +135,7 @@
             }
           },
           {
-            "id": "ffdc013f2bb56234",
+            "id": "ed7ba34f989652e2",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,7 +149,7 @@
             }
           },
           {
-            "id": "86eb77add30105d6",
+            "id": "a2f55c374db639fc",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -161,13 +161,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "04148feb2ca93ea0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,36 +191,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c0ef3945d8a8b54",
+  "active": "0f0cfd3849ef6ad2",
   "lastOpenFiles": [
     "ietls sprint/最終-高 ROI 套餐.md",
-    "readme.md",
-    "ietls sprint/高強度 Task 1 句界 + peak+fall 模考 20 題.md",
-    "ietls sprint/複合修飾詞.md",
+    "ietls sprint/LAST ROI PRACTICE.md",
+    "ietls sprint/Part A – 句界 & 結果句（8 題）.md",
+    "ietls sprint/Intro paragraphs.md",
     "ietls sprint/考前 Special Pack.md",
-    "ietls sprint/立即練習題.md",
-    "ietls sprint/最終強化版：純句界 10 題（中文版）＋ 必須使用比較句＋which 子句.md",
+    "ietls sprint/Final GA Dash.md",
+    "Screenshot 2025-11-23 at 2.21.45 PM.png",
+    "ietls sprint/Error log v4.md",
     "ietls sprint/句界專用 20 題（不含答案，專練「一文一義」）.md",
+    "ietls sprint/最終強化版：純句界 10 題（中文版）＋ 必須使用比較句＋which 子句.md",
+    "ietls sprint/高強度 Task 1 句界 + peak+fall 模考 20 題.md",
     "ietls sprint/weakness打點.md",
     "ietls sprint/weakness.md",
-    "ietls sprint/Welcome.md",
-    "ietls sprint/Task 2 Introduction「五大題型」專用題目.md",
-    "ietls sprint/Task 1 全新品類題.md",
-    "ietls sprint/Pasted image 20251121221034.png",
-    "ietls sprint/Part A – 句界 & 結果句（8 題）.md",
-    "ietls sprint/Modifier 安全名單.md",
-    "ietls sprint/LAST ROI PRACTICE.md",
-    "ietls sprint/Intro paragraphs.md",
-    "ietls sprint/Final GA Dash.md",
-    "ietls sprint/Error log v4.md",
-    "ietls sprint/Error Log v3.md",
     "ietls sprint/2025-11-22.md",
-    "ietls sprint",
     "Untitled.base",
-    "Screenshot 2025-11-23 at 2.21.45 PM.png",
-    "Untitled.canvas",
-    "2025-11-18.md",
-    "1.md",
-    "Untitled.md"
+    "ietls sprint/Modifier 安全名單.md"
   ]
 }
