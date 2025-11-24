@@ -31,9 +31,9 @@
 ### A-2（科技 / 社群媒體）
 
 3. 許多年輕人花大量時間滑社群媒體，因此他們睡眠時間明顯縮短。
-     Many young people spendgreat amount of time on browsing social media. Hence, Their 
+     Many young people spend great amount of time on browsing social media. Hence, their sleeping time shrink significantly.
 4. 公司導入遠端協作工具，因此員工即使在不同城市也能一起完成專案。
-    
+     The company introduce remote collabroat
 
 ---
 
