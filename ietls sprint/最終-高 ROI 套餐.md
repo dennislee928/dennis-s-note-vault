@@ -142,5 +142,10 @@
 ### B-5（文化 / 旅遊）
 
 9. 當地政府舉辦傳統文化節，吸引大量遊客前來參觀。
-     The local government held a traditional culture festival, which attracted 
-10. 歷史建築被妥善修復，讓城市成功塑造出具有特色的觀光形象。
+     The local government held a traditional culture festival, which attracted great amount of tourists came to visit.
+     
+      The local government held a traditional culture festival, attracting great amount of tourists came to visit.
+     
+ 
+9. 歷史建築被妥善修復，讓城市成功塑造出具有特色的觀光形象。
+The historical building has been repaired s
