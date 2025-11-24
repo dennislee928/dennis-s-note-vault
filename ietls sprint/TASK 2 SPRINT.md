@@ -23,7 +23,7 @@ ___
 
 It has long been debated... . Although the similarities may be worth emphasizing, their differences can not be overlooked, Indeed, both commanalities and differences can be found  between ...
 
-It has long been debated whether online learning or physical instruction is more effective . Although the positive outcomes of both these two learning methods are often highlighted, their differences are equally important. Indeed, both advantages can be found 
+It has long been debated whether online learning or physical instruction is more effective . Although the positive outcomes of both these two learning methods are often highlighted, their differences are equally important. Indeed, advantages can be found between these two ways of 
 
 
 
