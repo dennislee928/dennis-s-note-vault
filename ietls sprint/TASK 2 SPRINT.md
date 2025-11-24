@@ -1,3 +1,19 @@
+
+每題大約 8–10 分鐘：
+
+1. 先口頭講一次結構（Type 3A / 4 / 5）
+    
+2. 寫出 3–4 句 intro（不要超過 70 字）
+    
+3. 寫完自己檢查一次：
+    
+
+- 有沒有明確題型（Compare / Cause-effect / Problem-solution）
+    
+- 有沒有一句話清楚標題目關鍵詞（education / online learning / social media / plastic waste）
+    
+- 有沒有任何明顯 run-on 或 `.However,`、`.Therefore,` 這類標點問題
+
 ## 1️⃣ Compare 題（Type 3A）— 教育 / 線上 vs 實體
 
 **題目 1（教育＋科技，Compare）**  
