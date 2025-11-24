@@ -262,7 +262,7 @@ Recent data on crime indicates that violent crimes decreased significantly in so
 
 新的觀光相關設備與設施，例如資訊中心與公共指示牌，讓外國遊客更容易在城市中移動。
 
-New tourism facilities , such as information centers and direction signs, had make foreign 
+New tourism facilities , such as information centers and direction signs, had made it easier for  foreign tourists to 
 
 
 
