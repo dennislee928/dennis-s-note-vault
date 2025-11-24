@@ -124,14 +124,14 @@
 5. 公司提供彈性上下班時間，使員工可以避開尖峰交通時段。
      Flexible clock-in time is provided by the company, which enables employees to avoid rush hours.
 6. 餐廳開始標示熱量與營養成分，幫助顧客做出更健康的選擇。
-     Restaurant
+     Restaurants started to label calories and nutrients , which can help customers to make choices better for their health.
 
 ---
 
 ### B-4（社會 / 犯罪）
 
 7. 市政府在犯罪率較高的社區增加巡邏警力，讓居民在夜間感到更安全。
-    
+     The city government
 8. 監視系統被安裝在更多公共場所，使潛在的犯罪行為更容易被偵測。
     
 
