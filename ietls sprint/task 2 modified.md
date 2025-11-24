@@ -4,6 +4,7 @@
 > while others argue that practical skills such as financial literacy and teamwork are more important.  
 > **Compare the advantages of both approaches and give your opinion.**
 
+It has long been debated whether traditional academic subjects or 
 
 
 ### 4-2 教育／壓力：學生焦慮
