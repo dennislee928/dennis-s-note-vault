@@ -177,7 +177,7 @@ Much information about healthy eating is provided by the govrenments, which make
 
 Recent research on efficiency of remote working indicates that it's easier for emplyees to matain balance between work and life if they can work from home.
 
-(你這句ㄅ)
+(你這句不太適合用,which改吧)
 
 
 
@@ -202,6 +202,27 @@ Recent research on efficiency of remote working indicates that it's easier for e
 ### B-3（理財建議）
 
 專家給年輕人很多關於理財與投資的建議，這讓他們更能掌控自己的支出與儲蓄。
+
+Much advice 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 > 限制：
 > 
