@@ -20,7 +20,7 @@
 
 Many information about artificial intelligence at work was published by the government, which made people  know their jobs will be replaced soon.
 (information不可數+動詞錯誤)
-(made + S = v)
+(made + S + v)
 
 
 > 任務：
@@ -35,6 +35,13 @@ Many information about artificial intelligence at work was published by the gove
 ### A-2（心理健康 ＋ 研究）
 
 Recent researches on social media and mental health has positive results, which shows people should use phones less at night.
+
+Recent research on social media and mental health has positive results, which shows that people should use phones less at night.
+(research不可數)
+(fragment, 少that)
+
+
+
 
 > 任務：
 > 
