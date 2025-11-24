@@ -193,3 +193,5 @@ It has long been seriously discussed that  false information and fake news are w
 ### bonus advantages/disadvantages
 >Many people now think that e-books and digital reading devices are more convenient.  
 > **Discuess both advantages and disadvantages of using digital reading devices to read. **
+
+It has long been been dis
