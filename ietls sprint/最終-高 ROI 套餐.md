@@ -122,9 +122,9 @@
 ### B-3（健康 / 工作）
 
 5. 公司提供彈性上下班時間，使員工可以避開尖峰交通時段。
-     Flexible clock-in time is provided by the company, 
+     Flexible clock-in time is provided by the company, which enables employees to avoid rush hours.
 6. 餐廳開始標示熱量與營養成分，幫助顧客做出更健康的選擇。
-    
+     Restaurant
 
 ---
 
