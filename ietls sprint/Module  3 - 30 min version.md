@@ -175,7 +175,7 @@ Much information about healthy eating is provided by the govrenments, which make
 
 最近關於遠端工作效率的研究顯示，多數員工在家更容易維持工作與生活的平衡。
 
-Recent research on efficiency of remote working indicates that it's easier for empl
+Recent research on efficiency of remote working indicates that it's easier for emplyees to matain balance between -life
 
 
 
