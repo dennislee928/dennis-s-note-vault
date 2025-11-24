@@ -11,9 +11,11 @@ It has long been debated whether schools should focus more on instructing tradit
 
 > In some societies, a growing number of students are experiencing high levels of stress and anxiety related to their studies.  
 > **What factors have led to this situation, and how does it affect young people and their families?**
-It has long been discussed that growing number of students are stressed and anxious due to  their study performance. Indeed, there are several reasons causing this phenomenon, and serious negative consequences can be caused by it. Both reasons and consequences related to this issue will be discussed in the 
+It has long been discussed that growing number of students are stressed and anxious due to  their study performance. Indeed, there are several reasons causing this phenomenon, and serious negative consequences can be caused by it. Both reasons and consequences related to this issue will be discussed in the following paragraphs.
 
 ### 都市：住房負擔不起
 
 > In many big cities, the cost of housing has risen so high that many people can no longer afford to buy or even rent a suitable home.  
 > **What problems does this create, and what solutions could be proposed?**
+
+It has long been discussed that 
