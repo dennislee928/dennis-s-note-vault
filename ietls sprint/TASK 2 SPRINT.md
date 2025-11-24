@@ -23,6 +23,9 @@ ___
 
 It has long been debated... . Although the similarities may be worth emphasizing, their differences can not be overlooked, Indeed, both commanalities and differences can be found  between ...
 
+It has long been debated whether  . Although the similarities may be worth emphasizing, their differences can not be overlooked, Indeed, both commanalities and differences can be found  between ...
+
+
 
 
 
