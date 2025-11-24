@@ -203,23 +203,7 @@ Recent research on efficiency of remote working indicates that it's easier for e
 
 專家給年輕人很多關於理財與投資的建議，這讓他們更能掌控自己的支出與儲蓄。
 
-Much advice about investment and asset management is given to young people by experts, which make it easier for the young people to control their own expem=
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Much advice about investment and asset management is given to young people by experts, which make it easier for the young people to control their own expenditure and deposit.
 
 
 
@@ -236,6 +220,25 @@ Much advice about investment and asset management is given to young people by ex
 ### B-4（公共運輸進展）
 
 在公共運輸上的進展，例如更準時的班次和新的路線，減少了城市中的交通壅塞。
+
+Progress 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 > 限制：
 > 
