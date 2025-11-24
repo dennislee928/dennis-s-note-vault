@@ -58,9 +58,9 @@
 ### A-5（工作 / 經濟）
 
 9. 自動化機器被引入工廠生產線，因此需要低技能勞工的職缺變少。
-     Automation machines were imported into production pipelines in factories. Consequently, number of positions for 
+     Automation machines were imported into production pipelines in factories. Consequently, number of positions for labors with low-level skills decreased.
 10. 觀光產業在當地快速發展，因此許多小商家開始依賴觀光客的消費。
-    
+     Many small shops started to rely on tourists
 
 ---
 
