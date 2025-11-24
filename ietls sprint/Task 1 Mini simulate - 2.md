@@ -6,8 +6,8 @@ Summarise the information by selecting and reporting the main features, and make
 ___
 ![[Pasted image 20251124141223.png]]
 
-t1
+t1 25 -54 is the majority
 t2
 t3
 ___ 
-The comparison of the age of Iceland population from 1990 to 2020 is presented in the chart. Overall,
+The comparison of the age of Iceland population from 1990 to 2020 is presented in the chart. Overall, 
