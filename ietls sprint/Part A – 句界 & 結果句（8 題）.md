@@ -94,6 +94,6 @@
      Progress in automation equipment is obvious, which increase production efficiency.
 5. 城市中心的交通在尖峰時段非常壅塞，這增加了通勤者的壓力。  
     → 用：**traffic in the city centre… + which**
-     Traffi
+     Traffic in city centre is extremely congested, which increase the press of those who commute
 6. 在醫療科技上的進步已經拯救了無數生命，這顯示預防醫學的重要性。  
     → 用：**progress in medical technology… + which**
