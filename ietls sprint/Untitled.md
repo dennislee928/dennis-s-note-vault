@@ -61,7 +61,7 @@
 > whereas others mainly get information from social media and online platforms.  
 > **Compare the advantages of these two sources and state your own preference.**
 
-It has long been discussed that whether information in traditional format or in new format is better. Although advantages in both formats are evident, I firmly believe that  information in traditional format can be more accurate. The advantages  of both formats will be discussed in the following paragraphs
+It has long been discussed that whether information in traditional format or in new format is better. Although advantages in both formats are evident, I firmly believe that  information in traditional format can be more accurate. The advantages of both formats will be discussed in the following paragraphs.
 
 ---
 
@@ -101,6 +101,9 @@ It has long been discussed that whether information in traditional format or in 
 
 > In recent decades, the proportion of overweight and obese people has increased significantly in many parts of the world.  
 > **What are the main causes of this trend and what impact does it have on public health?**
+
+
+
 
 ---
 
