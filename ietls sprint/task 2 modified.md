@@ -4,7 +4,7 @@
 > while others argue that practical skills such as financial literacy and teamwork are more important.  
 > **Compare the advantages of both approaches and give your opinion.**
 
-It has long been debated whether schools should focus more on instructing traditional academic subjects or practical skills. Although advantages of both these two modes are evident, I firmly believe that practical skills can be more useful in students' every life. Advantages of both modes
+It has long been debated whether schools should focus more on instructing traditional academic subjects or practical skills. Although advantages of both these two modes are evident, I firmly believe that practical skills can be more useful in students' every life. Advantages of both modes 
 
 
 ### 4-2 教育／壓力：學生焦慮
