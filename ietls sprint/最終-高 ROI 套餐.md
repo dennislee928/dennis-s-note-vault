@@ -40,9 +40,9 @@
 ### A-3（環境 / 交通）
 
 5. 城市中心新增了多條自行車道，因此越來越多人選擇騎車通勤。
-     Many biking paths are added in the city centre. Consequently, more and more people choose biking as thier 
+     Many biking paths are added in the city centre. Consequently, more and more people choose biking as their commuting way.
 6. 政府長期忽視空氣污染問題，因此部分大城市的空氣品質持續惡化。
-    
+     ConseMost air quality has been worsened in most 
 
 ---
 
