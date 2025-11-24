@@ -31,4 +31,4 @@
 t1 most income increased
 t2 increased most in winter
 ___
-Income of 4 restaurants in last year 
+Income of 4 restaurants in last year is presented
