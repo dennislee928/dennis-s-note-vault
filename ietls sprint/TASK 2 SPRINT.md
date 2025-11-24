@@ -55,6 +55,23 @@ It has long been debated whether online learning or physical instruction is more
 In many countries, more and more people are spending several hours a day on social media platforms.  
 **What are the reasons for this trend and what effects does it have on individuals and society?**
 
+
+
+It has long been debated that more and more people are spending time onsocial media platforms.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 → 用 **Type 4：Cause & Effect intro**
 
 你要做到：
