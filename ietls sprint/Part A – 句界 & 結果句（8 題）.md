@@ -85,10 +85,10 @@
     Information about the the medical policy was provided by governments, which made people to know their rights better.
 2. 最近關於線上學習效果的研究有正面成果，讓學校更願意投資數位設備。  
     → 用：**recent research on… + which**
-     Recent research on online study has positive outcomes, which made schools to be more willing to invest in degit
+     Recent research on online study has positive outcomes, which made schools to be more willing to invest in digital equipment.
 3. 專家給父母很多關於兒童網路使用的建議，幫助他們設定適當規範。  
     → 用：**advice on… + which**
-    
+     Advice on children internet usage  was provided to parents by 
 4. 公司在自動化設備上的投資有了明顯進展，這提升了生產效率。  
     → 用：**progress in / equipment for… + which**
     
