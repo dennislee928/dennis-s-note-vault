@@ -91,7 +91,7 @@ It has long been debated that more and more people are spending time on social m
 Plastic waste has become a serious environmental issue in many parts of the world.  
 **What problems does plastic pollution cause, and what measures can be taken to reduce it?**
 
-It... .Some people may think
+It... .Some people may think that 
 
 
 
