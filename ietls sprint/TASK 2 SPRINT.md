@@ -21,7 +21,7 @@ Some people prefer online learning, while others believe that traditional classr
 **Compare the advantages of both methods and give your own opinion.**
 ___
 
-It has long been debated .Although the similarities may be worth emphasizing, their differences can not 
+It has long been debated. Although the similarities may be worth emphasizing, their differences can not be overlooked, Indeed, both comm
 
 
 
