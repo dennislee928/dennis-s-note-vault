@@ -10,4 +10,4 @@ t1 25 -54 is the majority
 t2 65+ / children/teenagers decreased,  25 -54 increased
 t3
 ___ 
-The comparison of the age of Iceland population from 1990 to 2020 is presented in the chart. Overall, there were more middle aged population , and most 
+The comparison of the age of Iceland population from 1990 to 2020 is presented in the chart. Overall, there were more middle aged population , and most groups decreased
