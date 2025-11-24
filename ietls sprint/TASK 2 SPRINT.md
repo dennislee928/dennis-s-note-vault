@@ -57,7 +57,7 @@ In many countries, more and more people are spending several hours a day on soci
 
 
 
-It has long been debated that more and more people are spending time on social media. Some people may think that it is difficult to find what causes this phenomenon. Indeed, there are some reasons explaining why people spend  a great amount of time on social media, and there are negative consequences caused by this 
+It has long been debated that more and more people are spending time on social media. Some people may think that it is difficult to find what causes this phenomenon. Indeed, there are some reasons explaining why people spend  a great amount of time on social media, and there are negative consequences caused by this phenomenon. B
 
 
 
