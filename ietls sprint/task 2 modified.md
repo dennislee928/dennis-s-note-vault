@@ -18,4 +18,4 @@ It has long been discussed that growing number of students are stressed and anxi
 > In many big cities, the cost of housing has risen so high that many people can no longer afford to buy or even rent a suitable home.  
 > **What problems does this create, and what solutions could be proposed?**
 
-It has long been discussed that price of houses has reached a peak that is so expensive that many people cannot purchase or even rent one. Indeed , there are problems caused by this phenomemon, and some measures can be taken to address them. Both potential problems and measure to solve 
+It has long been discussed that price of houses has reached a peak that is so expensive that many people cannot purchase or even rent one. Indeed , there are problems caused by this phenomemon, and some measures can be taken to address them. Both potential problems and measure to solve them will be discu
