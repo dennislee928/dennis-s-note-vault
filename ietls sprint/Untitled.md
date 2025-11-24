@@ -194,4 +194,4 @@ It has long been seriously discussed that  false information and fake news are w
 >Many people now think that e-books and digital reading devices are more convenient.  
 > **Discuess both advantages and disadvantages of using digital reading devices to read. **
 
-It has long been been dis
+It has long been been discussed whether e-books and digital reading devices
