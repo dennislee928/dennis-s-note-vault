@@ -61,7 +61,7 @@
 > whereas others mainly get information from social media and online platforms.  
 > **Compare the advantages of these two sources and state your own preference.**
 
-It has long been discussed that whether media press in 
+It has long been discussed that whether media in  traditional approach
 
 ---
 
