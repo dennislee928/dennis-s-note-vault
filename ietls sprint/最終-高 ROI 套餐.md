@@ -42,14 +42,14 @@
 5. 城市中心新增了多條自行車道，因此越來越多人選擇騎車通勤。
      Many biking paths are added in the city centre. Consequently, more and more people choose biking as their commuting way.
 6. 政府長期忽視空氣污染問題，因此部分大城市的空氣品質持續惡化。
-     ConseMost air quality has been worsened in most 
+     Governmenrts has been ignoring air pollution issues for a long period.  Consequently, most air quality has been worsened in most big cities.
 
 ---
 
 ### A-4（健康 / 生活型態）
 
 7. 很多人改為久坐的辦公室工作，所以肥胖與心血管疾病的比例不斷上升。
-    
+     
 8. 政府提供免費的健康檢查，因此更多人能及早發現潛在疾病。
     
 
