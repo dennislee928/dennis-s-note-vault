@@ -33,14 +33,14 @@
 3. 許多年輕人花大量時間滑社群媒體，因此他們睡眠時間明顯縮短。
      Many young people spend great amount of time on browsing social media. Hence, their sleeping time shrink significantly.
 4. 公司導入遠端協作工具，因此員工即使在不同城市也能一起完成專案。
-     The company introduce remote collaboration tools. Consequently, empl
+     The company introduce remote collaboration tools. Consequently, employees can complete projects together even if they are in different cities.
 
 ---
 
 ### A-3（環境 / 交通）
 
 5. 城市中心新增了多條自行車道，因此越來越多人選擇騎車通勤。
-    
+     Many bi
 6. 政府長期忽視空氣污染問題，因此部分大城市的空氣品質持續惡化。
     
 
