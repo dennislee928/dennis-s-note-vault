@@ -33,6 +33,6 @@ t2 increased most in winter
 ___
 Income of 4 restaurants in last year is presented in the line chart. Overall, most income increased and grew significantly during winter.
 
-It is clear that income of Eveninf Paradise grew the most. It increased by 145,000 dollars over the year and peaked at around 190,000 dollars in last December, which was the highest figure among all restaurants.  Delicacy also incread from 
+It is clear that income of Eveninf Paradise grew the most. It increased by 145,000 dollars over the year and peaked at around 190,000 dollars in last December, which was the highest figure among all restaurants.  Delicacy also incread from approximately 25,000 dollars to 
 
 , and Grand FiestaDelicay, 
