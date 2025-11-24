@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ietls sprint/TASK 2 SPRINT.md",
+                "file": "ietls sprint/schedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TASK 2 SPRINT"
+              "title": "schedule"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "5c0ef3945d8a8b54",
   "lastOpenFiles": [
-    "ietls sprint/schedule.md",
     "ietls sprint/TASK 2 SPRINT.md",
+    "ietls sprint/schedule.md",
     "ietls sprint/errorlogs.md",
     "ietls sprint/Task 1 Mini simulate - 2.md",
     "Pasted image 20251124141223.png",
