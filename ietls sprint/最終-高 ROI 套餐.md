@@ -49,7 +49,7 @@
 ### A-4（健康 / 生活型態）
 
 7. 很多人改為久坐的辦公室工作，所以肥胖與心血管疾病的比例不斷上升。
-     Many people change their way of working to working in office with long-time sitting. As a result, the percentage of overweight and heart realted disease 
+     Many people change their way of working to working in office with long-time sitting. As a result, the percentage of overweight and heart realted disease keep increasing.
 8. 政府提供免費的健康檢查，因此更多人能及早發現潛在疾病。
     
 
@@ -58,7 +58,7 @@
 ### A-5（工作 / 經濟）
 
 9. 自動化機器被引入工廠生產線，因此需要低技能勞工的職缺變少。
-    
+     Automation machines were imported into production pipelines in factories. Consequently, number of positions for 
 10. 觀光產業在當地快速發展，因此許多小商家開始依賴觀光客的消費。
     
 
