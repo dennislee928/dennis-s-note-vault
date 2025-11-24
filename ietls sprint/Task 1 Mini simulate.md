@@ -31,4 +31,6 @@
 t1 most income increased
 t2 increased most in winter
 ___
-Income of 4 restaurants in last year is presented in the line chart. Overall, most income increased and grew most significantly during winter.
+Income of 4 restaurants in last year is presented in the line chart. Overall, most income increased and grew significantly during winter.
+
+It is clear that income o
