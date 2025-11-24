@@ -3,3 +3,10 @@
 > Some people believe schools should focus mainly on traditional academic subjects,  
 > while others argue that practical skills such as financial literacy and teamwork are more important.  
 > **Compare the advantages of both approaches and give your opinion.**
+
+
+
+### 4-2 教育／壓力：學生焦慮
+
+> In some societies, a growing number of students are experiencing high levels of stress and anxiety related to their studies.  
+> **What factors have led to this situation, and how does it affect young people and their families?**
