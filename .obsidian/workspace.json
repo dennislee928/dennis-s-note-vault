@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ietls sprint/schedule.md",
+                "file": "ietls sprint/Task 1 Mini simulate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "schedule"
+              "title": "Task 1 Mini simulate"
             }
           }
         ]
@@ -183,9 +183,10 @@
   },
   "active": "5c0ef3945d8a8b54",
   "lastOpenFiles": [
+    "ietls sprint/schedule.md",
+    "ietls sprint/Task 1 Mini simulate.md",
     "ietls sprint/2025-11-22.md",
     "ietls sprint/Module  3 - 30 min version.md",
-    "ietls sprint/schedule.md",
     "ietls sprint/最終-高 ROI 套餐.md",
     "readme.md",
     "ietls sprint/高強度 Task 1 句界 + peak+fall 模考 20 題.md",
@@ -212,7 +213,6 @@
     "Screenshot 2025-11-23 at 2.21.45 PM.png",
     "Untitled.canvas",
     "2025-11-18.md",
-    "1.md",
-    "Untitled.md"
+    "1.md"
   ]
 }
