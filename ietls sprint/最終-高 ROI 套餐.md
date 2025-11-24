@@ -131,8 +131,10 @@
 ### B-4（社會 / 犯罪）
 
 7. 市政府在犯罪率較高的社區增加巡邏警力，讓居民在夜間感到更安全。
-     The city government increase police forces in communites with higher crime percentage, making residents fele safer
-8. 監視系統被安裝在更多公共場所，使潛在的犯罪行為更容易被偵測。
+     The city government increase police forces in communites with higher crime percentage, making residents feel safer at night.
+     
+     The city government increase police forces in communites with higher crime percentage, which make residents to feel safer at night.
+7. 監視系統被安裝在更多公共場所，使潛在的犯罪行為更容易被偵測。
     
 
 ---
@@ -140,5 +142,5 @@
 ### B-5（文化 / 旅遊）
 
 9. 當地政府舉辦傳統文化節，吸引大量遊客前來參觀。
-    
+     The local government held a traditional culture festival, which attracted 
 10. 歷史建築被妥善修復，讓城市成功塑造出具有特色的觀光形象。
