@@ -61,7 +61,7 @@
 > whereas others mainly get information from social media and online platforms.  
 > **Compare the advantages of these two sources and state your own preference.**
 
-It has long been discussed that whether information in traditional format or in new format is better. Although advantages in both formats
+It has long been discussed that whether information in traditional format or in new format is better. Although advantages in both formats are evident, I firmly believe that  information in traditional format can 
 
 ---
 
