@@ -148,4 +148,4 @@
      
  
 9. 歷史建築被妥善修復，讓城市成功塑造出具有特色的觀光形象。
-The historical building has been repaired successfully, making unique image regarding tourism
+The historical building has been repaired with cautious, which creates a unique image regarding tourism for the city successfully.
