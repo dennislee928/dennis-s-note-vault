@@ -103,34 +103,38 @@
         - 或 `…, making it easier for students to…`
             
 2. 大學圖書館延長開放時間，讓學生能在晚上也找到安靜的自習空間。
-     The university library extend its opening hour, making it easier for students to find quiet sel-study place at night.
- The university library extend its opening hour
+     The university library extend its opening hour, making it easier for students to find quiet self-study place at night.
+     
+     The university library extend its opening hour. Consequently, students can find quiet self-study place at night more easily.
+ 
 
 ---
 
 ### B-2（環境 / 公共建設）
 
 3. 城市政府擴大公共運輸系統，減少了居民對私家車的依賴。
-    
+     The city government expanded  public transportation systems, which decreased residents dependecy on private cars.
 4. 河岸旁建造了新的步道與綠地，使當地成為居民週末休閒的熱門地點。
-    
+     New walking paths and green areas were built near the river, making it a popular spot for local residents to relax on weekends. 
 
 ---
 
 ### B-3（健康 / 工作）
 
 5. 公司提供彈性上下班時間，使員工可以避開尖峰交通時段。
-    
+     Flexible clock-in time is provided by the company, which enables employees to avoid rush hours.
 6. 餐廳開始標示熱量與營養成分，幫助顧客做出更健康的選擇。
-    
+     Restaurants started to label calories and nutrients , which can help customers to make choices better for their health.
 
 ---
 
 ### B-4（社會 / 犯罪）
 
 7. 市政府在犯罪率較高的社區增加巡邏警力，讓居民在夜間感到更安全。
-    
-8. 監視系統被安裝在更多公共場所，使潛在的犯罪行為更容易被偵測。
+     The city government increase police forces in communites with higher crime percentage, making residents feel safer at night.
+     
+     The city government increase police forces in communites with higher crime percentage, which make residents to feel safer at night.
+7. 監視系統被安裝在更多公共場所，使潛在的犯罪行為更容易被偵測。
     
 
 ---
@@ -138,5 +142,10 @@
 ### B-5（文化 / 旅遊）
 
 9. 當地政府舉辦傳統文化節，吸引大量遊客前來參觀。
-    
-10. 歷史建築被妥善修復，讓城市成功塑造出具有特色的觀光形象。
+     The local government held a traditional culture festival, which attracted great amount of tourists came to visit.
+     
+      The local government held a traditional culture festival, attracting great amount of tourists came to visit.
+     
+ 
+9. 歷史建築被妥善修復，讓城市成功塑造出具有特色的觀光形象。
+The historical building has been repaired with cautious, which creates a unique image regarding tourism for the city successfully.
