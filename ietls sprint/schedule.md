@@ -1,83 +1,16 @@
-### 10:15–11:00（45 分）
 
-### 模組 2：Task 1 動詞＋介系詞 + 數字安全版
-
-**目標：** 確保明天 Task 1 用的動詞全部「安全且自然」。
-
-做法：
-
-1. 打開你之前那組 **Task 1 verbs 練習**（increase / fall / drop / peak / reach a low of / remain stable / fluctuate）
-    
-2. 自己出 **12 個簡單情境**（不用圖表，隨口編）：
-    
-    - 4 題：rose from A to B / fell from A to B
-        
-    - 4 題：increased by X / dropped by X（X 用「絕對差值」）
-        
-    - 2 題：peaked at
-        
-    - 2 題：reached a low of / remained stable at around
-        
-3. 每題只寫 **1 句**，但要檢查：
-    
-    - 時間＋年份位置（in 2005 / between 2000 and 2010）
-        
-    - 介系詞：from…to… / by X / at / of / around
-        
-    - 不要混寫：同一句不要既用「dropped by」又再說一次「falling from A to B」除非你非常穩。
-        
-
-這一段做完，你的 Task 1 動詞就接近「自動安全模式」。
 
 ---
 
-### 🕚 11:00–11:30（30 分）
 
-### 模組 3：which + 不可數＋自然搭配（微調）
-
-**目標：** 專門修掉你還會犯的小問題：  
-made people to know / increase / press vs pressure / children internet usage…
-
-做法：
-
-1. 從昨晚 Part C（information / research / advice / progress / traffic / medical technology）裡挑 **6 句**：
-    
-    - 用我給你的建議版，**再自己重寫一次**（不照抄，換一點詞）
-        
-2. 再自己造 **4 句新句子**，限定：
-    
-    - 主語一定是：information / research / advice / progress / traffic
-        
-    - 結尾一定是：`, which + 單一動詞片語`
-        
-        - which **has helped…**
-            
-        - which **has increased…**
-            
-        - which **shows… / indicates…**
-            
-
-檢查重點：
-
-- which 後面動詞一致（has / increases）
-    
-- 主語沒換（不能從「traffic」突然跳到「commuters」）
-    
 
 ---
 
-### 🕦 11:30–13:00（90 分）
 
-**午餐 + 完全休息**
-
-- 不建議再看英文。
-    
-- 可以散步、放空，讓早上練的東西沉澱。
-    
 
 ---
 
-### 🕐 13:00–14:00（60 分）
+### 🕐 13:30–14:30（60 分）
 
 ### 模組 4：Task 1 Mini 模擬（但只寫「安全語言」）
 
@@ -111,7 +44,7 @@ made people to know / increase / press vs pressure / children internet usage…
 
 ---
 
-### 🕑 14:00–14:45（45 分）
+### 🕑 14:35–15:30（45 分）
 
 ### 模組 5：Task 2 Intro（只練你不熟的 3 種）
 
@@ -142,7 +75,7 @@ made people to know / increase / press vs pressure / children internet usage…
 
 ---
 
-### 🕒 14:45–15:15（30 分）
+### 🕒 15:30–15:40（10 分）
 
 **短休息**
 
@@ -151,7 +84,7 @@ made people to know / increase / press vs pressure / children internet usage…
 
 ---
 
-### 🕞 15:15–16:00（45 分）
+### 🕞 15:45–16:30（45 分）
 
 ### 模組 6：Task 2 萬用 body skeleton（高頻三大主題）
 
@@ -179,11 +112,11 @@ made people to know / increase / press vs pressure / children internet usage…
 
 ---
 
-### 🕓 16:00–16:30（30 分）
+### 🕓 16:30–17:15（60 分）
 
 ### 模組 7：Error Log「終極版」整理（不再寫，只整理）
 
-**目標：** 把「明天早上要看的錯誤類型」整理到一張清單。
+**目標：** 把「今天晚上/明天早上要看的錯誤類型」+ quizlet錯字 整理到一張清單。
 
 步驟：
 
@@ -209,7 +142,7 @@ made people to know / increase / press vs pressure / children internet usage…
 
 ---
 
-### 🕟 16:30–17:00（30 分）
+### 🕟 17:25–18:00（30 分）
 
 ### 模組 8：很短的「壓力 mini test」（只看反應）
 
@@ -226,18 +159,13 @@ made people to know / increase / press vs pressure / children internet usage…
 
 ---
 
-### 🕔 17:00 之後
+### 🕔 18:00 之後
 
-建議進入「降載」階段：
-
-- 可以吃飯、運動、散步。
-    
-- 不再寫長文，不開新題型。
-    
+丟檔案到tablet
 
 ---
 
-### 🕢 19:30–20:00（30 分）
+### 🕢 19:30–20:15（45 分）
 
 ### 模組 9：純閱讀複習（不寫）
 
