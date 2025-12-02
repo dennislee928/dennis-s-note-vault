@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Part A – 句界 & 結果句（8 題）"
             }
+          },
+          {
+            "id": "1fe0fb237e576475",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f0cfd3849ef6ad2",
+  "active": "1fe0fb237e576475",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "ietls sprint/Part A – 句界 & 結果句（8 題）.md",
