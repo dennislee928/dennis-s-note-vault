@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "SKELETON & TOPICS"
             }
+          },
+          {
+            "id": "bfc56321fdd83dd9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c0ef3945d8a8b54",
+  "active": "bfc56321fdd83dd9",
   "lastOpenFiles": [
     "ietls sprint/- SKELETON & TOPICS.md",
     "ietls sprint/Intro paragraphs.md",
