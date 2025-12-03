@@ -25,12 +25,13 @@
             "id": "bfc56321fdd83dd9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "bases",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ],
@@ -194,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfc56321fdd83dd9",
+  "active": "620f8851b9576f0c",
   "lastOpenFiles": [
+    "others",
     "ietls sprint/- SKELETON & TOPICS.md",
     "ietls sprint/Intro paragraphs.md",
     "ietls sprint/Final GA Dash.md",
@@ -224,7 +226,6 @@
     "ietls sprint/weakness.md",
     "ietls sprint/Welcome.md",
     "ietls sprint/Task 2 Introduction「五大題型」專用題目.md",
-    "ietls sprint/Task 1 全新品類題.md",
     "ietls sprint",
     "Untitled.base",
     "Screenshot 2025-11-23 at 2.21.45 PM.png",
